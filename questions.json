@@ -5293,7 +5293,7 @@
         "explanation": "8.4 Controlar las comunicaciones. La respuesta correcta es: El Control de las Comunicaciones es el proceso de seguimiento y control de las comunicaciones a través de todo el ciclo de vida del proyecto para garantizar las necesidades de información de los interesados en el proyecto se cumplen"
       },
       {
-        "question": "¿Cómo es la comunicación tipo pull",
+        "question": "¿Cómo es la comunicación tipo pull?",
         "options": [
           "Es comunicación multidireccional, como por ejemplo emails, reuniones, videoconferencias, teléfono, etc.",
           "Es información que busca el usuario en algún lugar, por ejemplo, repositorios, páginas web, etc.",
@@ -5333,7 +5333,7 @@
         "explanation": "8.5.4.1 Técnicas de búsqueda / Normativa de la organización. La respuesta correcta es: Consiste en integrar en el proyecto toda la normativa aplicable, que sea propia de la organización"
       },
       {
-        "question": "La Sensibilidad y confidencialidad de la información es un factor de decisión, ¿en qué técnica de planifiación de la gestiñon de las comunicaciones influye?",
+        "question": "La Sensibilidad y confidencialidad de la información es un factor de decisión, ¿en qué técnica de planifiación de la gestión de las comunicaciones influye?",
         "options": [
           "Modelos de comunicación",
           "Métodos de comunicación",
@@ -5768,11 +5768,51 @@
         "question": "¿Qué son los informes de desempeño?",
         "options": [
           "Son cuadros de mando que usan los componentes del equipo",
-          "SOn informes sobre los resultados finales del proyecto",
+          "Son informes sobre los resultados finales del proyecto",
           "Son informes que se realizan periódicamente para informar a los stakeholders del proyecto sobre los aspectos que les interesan en relación al avance del proyecto"
         ],
         "answer": 2,
         "explanation": "8.3.1 Técnicas / Informes de desempeño. La respuesta correcta es: Son informes que se realizan periódicamente para informar a los stakeholders del proyecto sobre los aspectos que les interesan en relación al avance del proyecto"
+      },
+      {
+        "question": "¿Cómo es la comunicación tipo push?",
+        "options": [
+          "Es información que se envía a los receptores sin posibilidad de contestación, por ejemplo informes, faxes, blogs, etc.",
+          "Es comunicación multidireccional, como por ejemplo emails, reuniones, videoconferencias, teléfono, etc.",
+          "Es información que busca el usuario en algún lugar, por ejemplo, repositorios, páginas web, etc."
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿En qué fase se elabora documentación usando la Norma UNE157801?",
+        "options": [
+          "En la fase previa al propio desarrollo del proyecto",
+          "En la fase de mantenimiento del proyecto",
+          "En la fase de desarrollo del proyecto"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "Publicar algunos resultados del proyecto para información del cliente, ¿qué tipo de comunciación sería?",
+        "options": [
+          "Escrita y extraoficial",
+          "Vertical e informal",
+          "Externa y formal"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "OMG es una entidad de normalización...",
+        "options": [
+          "...de ámbito internacional y multisectorial.",
+          "...de ámbito internacional y sectorial.",
+          "...de ámbito nacional y sectorial."
+        ],
+        "answer": 1,
+        "explanation": ""
       }
     ]
   },
@@ -5830,7 +5870,7 @@
         "explanation": "9.5 Control de costes. La respuesta correcta es: En definir actividades cortas y con costes y tiempos bien calculados y definidos para facilitar las estimaciones"
       },
       {
-        "question": "Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿En qué consiste la entrega de elementos “tangibles”?",
+        "question": "Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿En qué consiste la entrega de elementos \"tangibles\"?",
         "options": [
           "En seleccionar elementos que físicamente se puedan tocar para hacer entregas, por ejemplo documentos en papel",
           "En definir hitos internos que deben ser certificados para hacerlos tangibles al cliente",
@@ -5910,7 +5950,7 @@
         "explanation": "9.10.3 Actividades después de la terminación del proyecto. La respuesta correcta es: Cuando se han completado las actividades posteriores a su terminación"
       },
       {
-        "question": "En qué consiste el Control de costes",
+        "question": "¿En qué consiste el Control de costes?",
         "options": [
           "En realizar un seguimiento de los costes reales para detectar las desviaciones y tomar las acciones correctoras que permitan corregir dichas desviaciones",
           "En no consumir todas las reservas dinerarias previstas para el proyecto",
@@ -6471,7 +6511,7 @@
         "explanation": "9.10.2 Tipos de final de proyecto. La respuesta correcta es: El proyecto termina con éxito y el equipo de proyecto se añade a la explotación del proyecto"
       },
       {
-        "question": "¿en qué consiste el Crashing and Fast Tracking?",
+        "question": "¿En qué consiste el Crashing and Fast Tracking?",
         "options": [
           "Es un proceso provocado por una saturación de trabajo en el proyecto y las tareas siguientes son atropelladas por las anteriores que no han terminado",
           "Es el momento en que el proyecto ya no es viable y se estrella (crashing) obligando a abandonarlo",
@@ -6499,6 +6539,66 @@
         ],
         "answer": 2,
         "explanation": "9.5 Control de costes. La respuesta correcta es: Consiste en usar técnicas como la Ley de Pareto o los diagramas ABC para decidir qué actividades requieren mayor atención"
+      },
+      {
+        "question": "¿Qué se representa en el gráfico de la cadena crítica?",
+        "options": [
+          "El estado de desempeño del proyecto en un momento dado",
+          "El consumo de reservas del camino crítico",
+          "El tiempo hasta el final del proyecto"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "Según Pritchard, ¿En qué consiste la terminación negativa?",
+        "options": [
+          "Es negativa cuando se ha superado el coste previsto",
+          "Es negativa cuando el proyecto ha tenido una duración más larga que el cronograma previsto",
+          "Es negativa cuando el proyecto no alcanza sus objetivos"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿Qué es la realización de pruebas y de auditorías?",
+        "options": [
+          "Son revisiones realizadas a todo o parte del proyecto para identificar fortalezas y debilidades",
+          "Son revisiones realizadas para identificar riesgos que afecten negativamente al proyecto",
+          "Son revisiones realizadas para buscar responsables de los fallos del proyecto"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿A qué nos puede ayudar la aplicación de técnicas como las de los gráficos ABC o la ley de Pareto (80/20) con respecto del SIGP?",
+        "options": [
+          "No pueden ayudar a seleccionar las adquisiciones con mayor coste para centrar los esfuerzos en ellas",
+          "Nos pueden ayudar a seleccionar aquellas variables que tienen más impacto y que deben ser observadas con más atención",
+          "Nos pueden ayudar a seleccionar los riesgos más importantes para el proyecto"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿Qué representa el BCWS?",
+        "options": [
+          "Es la línea base, representa cuanto trabajo debería estar hehco al coste presupuestado",
+          "Es el valor del coste de trabaja hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual",
+          "Es el valor del trabajo realizado, representa cuanto trabajo está terminado en el momento actual"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Cómo se pueden definir los costes internos?",
+        "options": [
+          "Son costes temporales que la organización pagará al final del proyecto",
+          "Son los costes de los equipos usados en el proyecto",
+          "Son los costes en los que incurre el proyecto por haber usado recursos propios de la organización"
+        ],
+        "answer": 2,
+        "explanation": ""
       }
     ]
   }
