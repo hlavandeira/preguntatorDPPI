@@ -2371,6 +2371,16 @@
         ],
         "answer": 0,
         "explanation": "3.3.1 Formalismos. La respuesta correcta es: Organization Breakdown Structure, representa las responsabilidades sobre la realización de las actividades del proyecto"
+      },
+      {
+        "question": "¿Cuáles de los siguientes son activos de los procesos de una organización?",
+        "options": [
+          "Planes, Procesos, Políticas, Procedimientos y Conocimiento corporativo",
+          "Financieros y Humanos",
+          "Ecológicos, Globalizadores y Socioculturales"
+        ],
+        "answer": 0,
+        "explanation": ""
       }
     ]
   },
@@ -2438,7 +2448,7 @@
         "explanation": "4.5.1 Técnicas. La respuesta correcta es: Busca mayor productividad y unas relaciones de trabajo más positivas y productivas"
       },
       {
-        "question": "¿Cuáles son los diferentes ámbitos de dependencia de los miembros del equipo)",
+        "question": "¿Cuáles son los diferentes ámbitos de dependencia de los miembros del equipo?",
         "options": [
           "Aislamiento, interdependencia y cooperación",
           "Dependencia del Jefe de proyecto o del Responsable funcional",
@@ -2906,7 +2916,7 @@
         "explanation": "4.4.1 Técnicas. La respuesta correcta es: Estas técnicas dan al Jefe de proyecto una vista de las fortalezas y debilidades en ciertas áreas del equipo de proyecto"
       },
       {
-        "question": "¿Cuál de las siguiente son herramientas de evaluación del personal?",
+        "question": "¿Cuál de las siguientes son herramientas de evaluación del personal?",
         "options": [
           "La observación, la escucha y la decisión",
           "Capacidad de liderazgo, reuniones de coordinación y formación continua",
@@ -2995,7 +3005,7 @@
         "explanation": "(PMBOK 5.0) 9.1.3.1 Human Resource Management Plan. La respuesta correcta es: Son calendarios que identifican los días de trabajo en que cada recurso están disponibles"
       },
       {
-        "question": "¿Cuáles de los siguientes son factores que se deben estudiar a la hora de crear un equpo de proyecto y que forman su perfil profesional y personal?",
+        "question": "¿Cuáles de los siguientes son factores que se deben estudiar a la hora de crear un equipo de proyecto y que forman su perfil profesional y personal?",
         "options": [
           "Márketing y conocimientos de macroeconomía",
           "Actitudes requeridas en el trabajo y relación con otros perfiles",
@@ -3053,6 +3063,66 @@
         ],
         "answer": 1,
         "explanation": "4.5.1 Técnicas. La respuesta correcta es: Son técnicas para analizar las situaciones de conflicto e interactuar adecuadamente con los miembros del equipo"
+      },
+      {
+        "question": "Un equipo tiene dedicación a tiempo completo cuando...",
+        "options": [
+          "Alguno de los miembros del proyecto se dedican exclusivamente a un proyecto",
+          "Todos los miembros del proyecto se dedican exclusivamente a un proyecto",
+          "Una parte importante o todos los miembros del proyecto se dedican exclusivamente a un proyecto"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "¿En qué consiste el aislamiento dentro de la dependencia de los miembros del equipo?",
+        "options": [
+          "Las actividades se descomponen en subunidades independientes y el control se basa únicamente en relaciones jerárquicas",
+          "Las actividades son absolutamente independientes y el control no es necesario",
+          "Las actividades se descomponen en subunidades y las relaciones entre los miembros del equipo no existen"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Cuál de las siguientes es una técnica informal que ayuda en la elaboración del Plan de Gestión de Recursos Humanos del proyecto (PGRH)?",
+        "options": [
+          "La dedicación a tiempo completo",
+          "Las redes de contactos",
+          "La dedicación a tiempo parcial"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "¿En qué consiste la interdependencia dentro de la dependencia de los miembros del equipo?",
+        "options": [
+          "Las actividades se hacen muy dependientes y requieren de muchos tiempos cortos de planificación",
+          "Durante el diseño se han establecido un nivel muy alto de acoplamiento y las decisiones son complejas",
+          "Si el equipo es interdependiente, las decisiones llevan mucho tiempo y al proyecto le cuesta avanzar"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Cuáles de las siguientes son técnicas que se usan para mejorar el desarrollo del equipo de proyecto?",
+        "options": [
+          "Observación y conversación, evaluaciones del desempeño del proyecto y resolución de conflictos",
+          "Preasignación, negociación, adquisición equipos virtuales y análisis de decisión multicriterio",
+          "Habilidades interpersonales, formación, actividades de mejora de trabajo en equipo, reglas básicas y colocación"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "¿Qué papel juegan las reuniones como técnicas de soporte a la creación del Plan de Gestión de Recursos Humanos del proyecto (PGRH)?",
+        "options": [
+          "Son técnicas para la información de los resultados del PGRH",
+          "Son técnicas auxiliares de negociación",
+          "Son técnicas usadas para coordinar las acciones durante la ejecución del proyecto y concretamente durante la elaboración de PGRH"
+        ],
+        "answer": 2,
+        "explanation": ""
       }
     ]
   },
@@ -3320,7 +3390,7 @@
         "explanation": "PMBOK: 7.4.2.1 Earned Value Management. La respuesta correcta es: Es una medida de la eficiencia del cronograma realizado en un plazo con respecto al valor planeado. SPI=EV/PV"
       },
       {
-        "question": "Con respecto a la técnicas de Control de Costes, ¿Qué información se determina para la Evaluación del desempeño?",
+        "question": "Con respecto a las técnicas de Control de Costes, ¿Qué información se determina para la Evaluación del desempeño?",
         "options": [
           "Valor acumulado, Valor ganado y Rendimiento del valor ganado o acumulado",
           "Valor planeado, Valor ganado o acumulado y Coste actual",
@@ -3680,7 +3750,7 @@
         "explanation": "5.1.1 Técnicas. La respuesta correcta es: Es una razón financiera que compara el beneficio o la utilidad obtenida de un proyecto en relación a la inversión realizada"
       },
       {
-        "question": "¿Qué describe el Plan de gestión de costes del proyecto)",
+        "question": "¿Qué describe el Plan de gestión de costes del proyecto?",
         "options": [
           "Describe cómo se planificarán, controlarán y estructurarán los costes del proyecto",
           "Permite la actualización de costes del proyecto en ejecución",
@@ -3727,6 +3797,76 @@
         ],
         "answer": 2,
         "explanation": "5.1.1 Técnicas. La respuesta correcta es: Crear con medios propios, Comprar, Alquilar y Leasing"
+      },
+      {
+        "question": "¿Qué es la Línea Base de Coste?",
+        "options": [
+          "Es el valor de coste que no se debe superar",
+          "Es la estimación de cómo se realizarán los gastos a lo largo del proyecto",
+          "Es el valor mínimo de coste del proyecto"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "En el contexto del Plan general de costes, hablando de técnicas analíticas para la elección de las estrategias de financiación del proyecto, ¿En qué consiste la Financiación con deuda (funding with debt)?",
+        "options": [
+          "Se buscan socios financieros que harán la inversión en el proyecto a cambio de obtener participación en los beneficios",
+          "Se solicitarán préstamos a bancos",
+          "El proyecto será financiado la propia empresa"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "¿Cuál es uno de los productos más importantes de la estimación de costes?",
+        "options": [
+          "La estimación de costes desglosada o agrupada",
+          "El presupuesto de adquisiciones",
+          "El presupuesto de cliente"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "Dentro de las técnicas usadas para la estimación de costes, ¿En qué consiste el Análisis de Ofertas (Vendor Bid Analysis)?",
+        "options": [
+          "Se piden ofertas a proveedores para provocar bajadas de precios de desarrollo",
+          "Se solicitan ofertas a proveedores sobre algunas partes del desarrollo y se estudian",
+          "Se piden ofertas a proveedores con experiencia y se estudian para ofertar lo mismo"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "Hablando de las técnicas para la elaboración del presupuesto, ¿En qué consisten las Relaciones históricas?",
+        "options": [
+          "Consiste en buscar relaciones con otros proyectos para ajustar las actividades comunes",
+          "Consiste en usar como base la información histórica de otros proyectos similares",
+          "Consiste en usar las relaciones con expertos para buscar su consejo"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "Con respecto a la técnica de Predicción dentro del Control de Costes, ¿Cómo se calcula el EAC considerando ambos, el ratio de presupuesto y el valor actual del índice de rendimiento de costes?",
+        "options": [
+          "EAC = AC + [(BAC – EV) / (CPI × SPI)]",
+          "EAC = BAC / CPI",
+          "EAC = AC + (BAC – EV)"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿En qué consiste la Gestión del Valor ganado o acumulado?",
+        "options": [
+          "Es una metodología que consiste en calcular permanentemente los beneficios que se van obteniendo del proyecto",
+          "Es una metodología que combina mediciones alcance, cronograma y recursos para evaluar el desempeño y el progreso del proyecto",
+          "Es una metodología que busca obtener beneficios del proyecto, eliminando aquellas actividades no productivas"
+        ],
+        "answer": 1,
+        "explanation": ""
       }
     ]
   },
@@ -4422,6 +4562,106 @@
         ],
         "answer": 1,
         "explanation": "6.6.2 Identificación de Riesgos. La respuesta correcta es: Es un proceso de reflexión a través de diferentes técnicas para determinar qué cosas, elementos o circunstancias son riesgos del proyecto"
+      },
+      {
+        "question": "¿En qué consiste la \"Valoración económica\" como producto de la fase de Planificación de la Gestión de cada Riesgo?",
+        "options": [
+          "Define los criterios para evaluar el estado del proyecto con técnicas como EVM",
+          "Define los criterios y técnicas usadas para la valoración, además de los propios resultados de las valoraciones",
+          "Define los criterios de priorización de los riesgos, además de la lista de riesgos priorizados"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "¿En qué consiste la Monitorización de Riesgos?",
+        "options": [
+          "En disponer de recursos suficientes para poder poner en marcha la Gestión de Riesgos durante el desarrollo",
+          "En esperar que ocurra un riesgo para tomer algún tipo de resolución",
+          "En controlar el progreso del proyecto en lo relativo a resolución de riesgos durante la fase de desarrollo"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "Dentro de las técnicas usadas en el Análisis de Riesgos, ¿Cómo se hace la Evaluación del impacto?",
+        "options": [
+          "Se hace de acuerdo a una escala de rangos que se definen en la matriz de probabilidad e impacto",
+          "Se hace de acuerdo a una escala de rangos que se definen en la tabal de categorías",
+          "Se hace de acuerdo a una escala de rangos que se define en la tabla de escalas de impacto"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "¿Qué es la Duración de un riesgo?",
+        "options": [
+          "Es una combinación del momento en el que se sentirá su impacto y la duración del mismo",
+          "Es el periodo de tiempo en el que es posible mitigar el riesgo",
+          "Es el tiempo transcurrido desde que se identifica hasta que ya no es importante"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Cuál de las siguientes es la definición de riesgo que mejor se adapta a lo que se expone en la asignatura?",
+        "options": [
+          "Un riesgo es un evento o condición incierta que, si sucede, tiene un efecto positivo o negativo en por lo menos uno de los objetivos del proyecto, tales como el alcance, el cronograma, el coste y la calidad (PMBOK)",
+          "Un valor compuesto, resultante de la multiplicación de la probabilidad de ocurrencia de un evento por la pérdida que la misma implica (BOEHM)",
+          "Un riesgo es cualquier suceso que pueda afectar negativamente a la marcha del proyecto en el futuro (RAE)"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "Entre otras, ¿Qué cosas se definen durante la planificación de la gestión de riesgos?",
+        "options": [
+          "Metodología, Categorías de riesgo, Definiciones de probabilidad e impacto y Matriz de probabilidad e impacto",
+          "Probabilidad, Impacto y Alcance (probabilidad x impacto)",
+          "Identificador, Nombre del riesgo, Descripción, Clase y Respuesta potencial"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Qué es el Impacto de un riesgo?",
+        "options": [
+          "Es una medida del peligro o beneficio real que el riesgo puede representar para el proyecto",
+          "Es el periodo de tiempo en el que es posible mitigar el riesgo",
+          "Es el efecto que puede ocasionar el riesgo en caso de producirse"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "Si un riesgo tiene una probabilidad del 30% y un impacto sobre uno de los objetivos del proyecto del 40%, ¿Cuál es el alcance de ese riesgo para dicho objetivo?",
+        "options": [
+          "12%",
+          "70%",
+          "40%"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "Dentro de las técnicas de Identificación de riesgos y dentro de las técnicas de Recopilación de Información, ¿Qué elementos pueden usarse para dirigir el trabajo?",
+        "options": [
+          "La tabla de impactos",
+          "La matris de probabilidad e impacto",
+          "El Risk Breakdows Structure"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "Dentro de las técnicas de Priorización de los Riesgos, ¿En qué consiste el Juicio de expertos?",
+        "options": [
+          "En solicitar la opinión de personas con experiencias en otros proyectos anteriores, sobre posibles riesgos en el proyecto",
+          "Puede hacer que algunos riesgos se prioricen para ser monitorizados con más frecuencia a pesar de no haber sido priorizados mediante otras técnicas anteriores",
+          "Las priorizaciones suelen estar basadas en experiencias con algunos tipos de riesgos mantenidos bajo control"
+        ],
+        "answer": 0,
+        "explanation": ""
       }
     ]
   },
@@ -4898,7 +5138,7 @@
         "explanation": "7.3.2.2 Niveles CMMI. La respuesta correcta es: Inicial, Repetible, Definido, Administrado y Optimizado"
       },
       {
-        "question": "a implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación. Dentro del nivel de software, ¿Qué elementos se definen en los modelos clásicos?",
+        "question": "La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación. Dentro del nivel de software, ¿Qué elementos se definen en los modelos clásicos?",
         "options": [
           "%Modelos y Estándares",
           "Entidades y Proyectos",
@@ -4945,6 +5185,16 @@
         ],
         "answer": 1,
         "explanation": "7.4.3 Control de calidad. La respuesta correcta es: Es el proceso por el que se monitorizan y registran los resultados de la ejecución de actividades de calidad, a fin de evaluar el desempeño y recomendar cambios necesarios"
+      },
+      {
+        "question": "¿Qué es la Calidad Necesaria?",
+        "options": [
+          "Lo que quiere el cliente",
+          "Lo que se ha hecho realmente",
+          "Lo que se ha especificado hacer"
+        ],
+        "answer": 0,
+        "explanation": ""
       }
     ]
   },
