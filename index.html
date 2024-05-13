@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Online</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+</head>
+<body>
+    <div id="app">
+        <h1>Test Online</h1>
+        <select id="topic-selector">
+            <!-- Las opciones se cargarán dinámicamente -->
+        </select>
+        <div id="question-container">
+            <!-- Las preguntas se cargarán dinámicamente -->
+        </div>
+        <div id="buttons-container">
+            <button class="btn" id="view-answers-button">Ver respuestas</button>
+            <button class="btn" id="submit-button">Enviar respuestas</button>
+            <button class="btn" id="scroll-to-top-button"><b>↑</b></button>
+        </div>
+		<div id="traversal">
+			<h1>Ir a pregunta</h1>
+			<div id="traversal-container">
+				<!-- El desplazamiento se añade dinamicamente -->
+			</div>
+		</div>
+        <div class="switch-container">
+            <label for="instant-feedback-switch">Retroalimentación instantánea</label>
+            <div class="switch" id="switch">
+                <input type="checkbox" id="instant-feedback-switch">
+                <span class="slider round"></span>
+            </div>
+        </div>
+        
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
