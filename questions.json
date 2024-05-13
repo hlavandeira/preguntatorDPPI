@@ -1,11 +1,11 @@
 [
   {
-    "topic": "Tema 1: introducción a los proyectos informáticos",
+    "topic": "Tema 1: INTRODUCCIÓN A LOS PROYECTOS INFORMÁTICOS",
     "questions": [
       {
         "question": "En muchos casos los proyectos de software engloban en un solo proyecto tres etapas diferenciadas en otros proyectos, ¿cuáles?",
         "options": [
-          "Financiación, avalaes y garantías post-venta",
+          "Financiación, avales y garantías post-venta",
           "Definición, construcción e implantación",
           "Presupuesto, planos y pliego de condiciones"
         ],
@@ -23,17 +23,17 @@
         "explanation": "1.5.2.4.1 Roles de Scrum. La respuesta correcta es: Equipo, Dueño del producto y Scrum master"
       },
       {
-        "question": "¿Que es el equipo Scrum?",
+        "question": "¿Qué es el equipo Scrum?",
         "options": [
           "Es el que desarrolla el proyecto.",
-          "Es el encargado de realziar el software bajo la dirección de Dueño de Producto y del ScrumMaster",
+          "Es el encargado de realizar el software bajo la dirección del Dueño de Producto y del ScrumMaster",
           "El compuesto por los roles Dueño de Producto, Equipo y ScrumMaster."
         ],
         "answer": 2,
         "explanation": "La respuesta correcta es: El compuesto por los roles Dueño de Producto, Equipo y ScrumMaster."
       },
       {
-        "question": "¿Quién ha definido la ingeniería del software como \"Una aproximación sistemática al desarrollo operación, mantenimiento y retirada del sfotware\"?",
+        "question": "¿Quién ha definido la ingeniería del software como \"Una aproximación sistemática al desarrollo, operación, mantenimiento y retirada del software\"?",
         "options": [
           "Stephen Schach",
           "IEEE",
@@ -67,7 +67,7 @@
         "options": [
           "En un elemento de trabajo compuesto por tareas",
           "Es cualquier trabajo que no sea una tarea",
-          "Es el perfil de una determinada persona participando enun proyecto"
+          "Es el perfil de una determinada persona participando en un proyecto"
         ],
         "answer": 0,
         "explanation": "1.1.3.2 Actividad. La respuesta correcta es: En un elemento de trabajo compuesto por tareas"
@@ -126,7 +126,7 @@
         "question": "¿Qué es la Gestión de Proyectos según el PMI?",
         "options": [
           "Un conjunto de principios probados, métodos y técnicas para la planificación, la programación, el control y la trazabilidad eficientes de trabajos orientados a entregables (resultados)que ayudan a establecer bases históricas sólidas para la planificación futura de proyectos.",
-          "Es un principio de la ingeniería del software que establece las reglas para elegir la arqutiectura, el análisis, el diseño y la implementación de proyectos que cumplan con las especificaciones.",
+          "Es un principio de la ingeniería del software que establece las reglas para elegir la arquitectura, el análisis, el diseño y la implementación de proyectos que cumplan con las especificaciones.",
           "Es la actividad que realiza el Jefe de proyecto para impedir que el proyecto se desvíe."
         ],
         "answer": 0,
@@ -147,7 +147,7 @@
         "options": [
           "La integración continua",
           "El ciclo en cascada",
-          "No utiizar estándares para programar"
+          "No utilizar estándares para programar"
         ],
         "answer": 0,
         "explanation": "1.5.2.3.2 XP. La respuesta correcta es: La integración continua"
@@ -165,7 +165,7 @@
       {
         "question": "¿Qué significa que el objetivo de proyecto sea único?",
         "options": [
-          "Significa que debe ser realizado un unico equipo de trabajo.",
+          "Significa que debe ser realizado un único equipo de trabajo.",
           "Significa que el proyecto debe realizar únicamente software o hardware, pero no una combinación de ambos.",
           "Significa que el producto o servicio es diferente de alguna forma clara de todos los productos o servicios similares."
         ],
@@ -205,12 +205,12 @@
       {
         "question": "¿Quién participa en una reunión para refinamiento del Backlog de Producto?",
         "options": [
-          "Dueño de Producto (Sólo si es experto, si no puede enviar a otras personas que puedan ayudar al equipo), Equipo, ScrumMaster (Obligatoriamente a las primeras reunioens).",
-          "Dueño de Producto, Equipo, ScrumMaster (Obligatoriamente a las primeras reunioens, más tarde puede enviar a otras personas que puedan ayudar al equipo).",
-          "Dueño de Producto (Sólo si es experto), Equipo, ScrumMaster (Obligatoriamente a las primeras reunioens) y otras personas que puedan ayudar al equipo."
+          "Dueño de Producto (Sólo si es experto, si no puede enviar a otras personas que puedan ayudar al equipo), Equipo, ScrumMaster (Obligatoriamente a las primeras reuniones).",
+          "Dueño de Producto, Equipo, ScrumMaster (Obligatoriamente a las primeras reuniones, más tarde puede enviar a otras personas que puedan ayudar al equipo).",
+          "Dueño de Producto (Sólo si es experto), Equipo, ScrumMaster (Obligatoriamente a las primeras reuniones) y otras personas que puedan ayudar al equipo."
         ],
         "answer": 2,
-        "explanation": "La respuesta correcta es: Dueño de Producto (Sólo si es experto), Equipo, ScrumMaster (Obligatoriamente a las primeras reunioens) y otras personas que puedan ayudar al equipo."
+        "explanation": "La respuesta correcta es: Dueño de Producto (Sólo si es experto), Equipo, ScrumMaster (Obligatoriamente a las primeras reuniones) y otras personas que puedan ayudar al equipo."
       },
       {
         "question": "De acuerdo a las 34 competencias del libro de Furtel, ¿Cuál de las siguientes competencias no es necesaria para ser Director (Jefe) de Proyecto?",
@@ -227,7 +227,7 @@
         "options": [
           "Se anota el avance usando algún método que represente el esfuerzo pendiente. Una representación habitual es un Diagrama de BurnDown.",
           "Se usan modelos de estimación de esfuerzos que se convierten a puntos de función. Una representación habitual es un Diagrama de BurnDown.",
-          "Se van sumando los esfuerzos realizados de manera que se vaya acercando al esfuezo previsto. Una representación habitual es un Diagrama de BurnDown."
+          "Se van sumando los esfuerzos realizados de manera que se vaya acercando al esfuerzo previsto. Una representación habitual es un Diagrama de BurnDown."
         ],
         "answer": 0,
         "explanation": "1.5.2.4.6 Actualizando la Pila de Sprint y la Gráfica de Trabajo Restante del Sprint. La respuesta correcta es: Se anota el avance usando algún método que represente el esfuerzo pendiente. Una representación habitual es un Diagrama de BurnDown."
@@ -246,7 +246,7 @@
         "question": "Los procesos de la estructura principal de MÉTRICA Versión 3 son los siguientes:",
         "options": [
           "Planeación, desarrollo y mantenimiento de los sistemas de información",
-          "Definción de equipos, determinación de normativa y documentación",
+          "Definición de equipos, determinación de normativa y documentación",
           "Estudio de viabilidad, análisis de información, diseño y construcción"
         ],
         "answer": 0,
@@ -273,7 +273,7 @@
         "explanation": "1.5.2.2.4 Fases dentro de un ciclo. La respuesta correcta es: Fase de diseño"
       },
       {
-        "question": "Una característica del modelo de cilco de vida en cascada es...",
+        "question": "Una característica del modelo de ciclo de vida en cascada es...",
         "options": [
           "Perpetúa el fracaso de la industria del software en su comunicación con el usuario final, lo que es una desventaja",
           "Solapa perfectamente el modo de pensar humano al hacer las tareas secuencialmente, lo que es una ventaja",
@@ -285,8 +285,8 @@
       {
         "question": "¿Cómo se planifica un Sprint de Scrum?",
         "options": [
-          "Para planificar un Sprint se realiza una reunión dividida en dos partes: A la primera parte asisten los tres roles principales y a la segunda el Dueño de Producto sólo asiste opcionalomente.",
-          "El Equipo de proyecto y el Scrum Master se reunen para definit los elemntos de la Pila de Producto que serán acometidos en el siguiente Sprint.",
+          "Para planificar un Sprint se realiza una reunión dividida en dos partes: A la primera parte asisten los tres roles principales y a la segunda el Dueño de Producto sólo asiste opcionalmente.",
+          "El Equipo de proyecto y el Scrum Master se reúnen para definir los elementos de la Pila de Producto que serán acometidos en el siguiente Sprint.",
           "EL Equipo de proyecto y el Dueño del Producto priorizan los casos de uso que serán implementados en el siguiente Sprint."
         ],
         "answer": 0,
@@ -297,7 +297,7 @@
         "options": [
           "El ScrumMaster sirve de puente entre el Dueño de Producto y el Equipo.",
           "El ScrumMaster ayuda al área de producto a aprender y aplicar Scrum para obtener valor de negocio.",
-          "El ScrumMaster supervisa y dirije la actividad del equipo de darrollo."
+          "El ScrumMaster supervisa y dirige la actividad del equipo de desarrollo."
         ],
         "answer": 1,
         "explanation": "(Deemer, y otros, 2012) (Roles en Scrum). La respuesta correcta es: El ScrumMaster ayuda al área de producto a aprender y aplicar Scrum para obtener valor de negocio."
@@ -367,17 +367,17 @@
         "options": [
           "\"Terminado\" es el producto o conjunto de productos que se obtienen al final de un Sprint",
           "Un producto está \"Terminado\" si pasa las pruebas al final de Sprint",
-          "La definición de “Termiando” deben acordarse con el DP"
+          "La definición de “Terminado” deben acordarse con el DP"
         ],
         "answer": 2,
-        "explanation": "1.5.2.4.3 Definición de “Terminado” (Terminar el Sprint). La respuesta correcta es: La definición de “Termiando” deben acordarse con el DP"
+        "explanation": "1.5.2.4.3 Definición de “Terminado” (Terminar el Sprint). La respuesta correcta es: La definición de “Terminado” deben acordarse con el DP"
       },
       {
         "question": "¿Qué es el Backlog de Producto?",
         "options": [
           "El Backlog de Producto es la visión única y definitiva de “todo lo que podría ser realizado en algún momento por el Equipo, en orden de prioridad”",
           "El Backlog de Producto es una lista de prioridades para realizar en el siguiente día de proyecto",
-          "El Backlog de Producto es una lista priorizada de sistemas a implementar con el obejtivo de reducir el tiempo de desarrollo al máximo"
+          "El Backlog de Producto es una lista priorizada de sistemas a implementar con el objetivo de reducir el tiempo de desarrollo al máximo"
         ],
         "answer": 0,
         "explanation": "(Deemer, y otros, 2012) (Backlog de Producto). La respuesta correcta es: El Backlog de Producto es la visión única y definitiva de “todo lo que podría ser realizado en algún momento por el Equipo, en orden de prioridad”"
@@ -397,7 +397,7 @@
         "options": [
           "Una reunión para que Scrum Master defina el trabajo a realizar durante el día actual.",
           "Una reunión de unos 15 minutos de duración para coordinar el trabajo que se va a desarrollar ese día",
-          "Una reunión para revisar los resultados del día anterior y tomar medidas para corregir las desviaciones durante el día acutal."
+          "Una reunión para revisar los resultados del día anterior y tomar medidas para corregir las desviaciones durante el día actual."
         ],
         "answer": 1,
         "explanation": "1.5.2.4.5 Scrum diario. La respuesta correcta es: Una reunión de unos 15 minutos de duración para coordinar el trabajo que se va a desarrollar ese día"
@@ -415,7 +415,7 @@
       {
         "question": "¿Qué es Scrum?",
         "options": [
-          "Scrum es un método de fabricacion de software que divide el proceso en iteraciones, las iteraciones en fases y éstas en Sprints.",
+          "Scrum es un método de fabricación de software que divide el proceso en iteraciones, las iteraciones en fases y éstas en Sprints.",
           "Scrum es una metodología ágil que consiste en desarrollar software en pequeños paquetes que se deben integrar al final del proyecto.",
           "Scrum es un marco de trabajo en el que equipos cross-funcionales pueden crear productos o desarrollar proyectos de una forma iterativa e incremental."
         ],
@@ -423,9 +423,9 @@
         "explanation": "La respuesta correcta es: Scrum es un marco de trabajo en el que equipos cross-funcionales pueden crear productos o desarrollar proyectos de una forma iterativa e incremental."
       },
       {
-        "question": "¿Qué características debe tener la Pila de Produto?",
+        "question": "¿Qué características debe tener la Pila de Producto?",
         "options": [
-          "Debe estar es poder del Dueño de Producto que sólo la comparte cuande se define el siguiente Sprint",
+          "Debe estar es poder del Dueño de Producto que sólo la comparte cuando se define el siguiente Sprint",
           "No es necesario que se soporte en aplicaciones, es simplemente uns lista de papeles sobre una pizarra",
           "Detallada apropiadamente, Estimada, Emergente y Priorizada"
         ],
@@ -436,7 +436,7 @@
         "question": "El Modelo de transformación es un método de realización de software que...",
         "options": [
           "...es un método usado en las migraciones de software en las grandes empresas.",
-          "...consisite en acoplar pequeñas unidades de código para hacer sistemas grandes.",
+          "...consiste en acoplar pequeñas unidades de código para hacer sistemas grandes.",
           "...parte de la premisa de la existencia de un sistema que pueda convertir fácilmente los requerimientos en código."
         ],
         "answer": 2,
@@ -487,7 +487,7 @@
         "options": [
           "Los Sprints son iteraciones de 1 a 4 semanas que se van sucediendo una detrás de otra",
           "LoS Sprints son casos de uso que se extraen del Product Backlog para ser desarrollados",
-          "Los Sprints son cilcos compuestos por varias iteraciones de 1 a 4 semanas de duración"
+          "Los Sprints son ciclos compuestos por varias iteraciones de 1 a 4 semanas de duración"
         ],
         "answer": 0,
         "explanation": "1.5.2.4 Scrum. La respuesta correcta es: Los Sprints son iteraciones de 1 a 4 semanas que se van sucediendo una detrás de otra"
@@ -505,7 +505,7 @@
       {
         "question": "Sobre METRICA V2 y METRICA V3",
         "options": [
-          "METRICA V3 es para sistemas orientados a objeto y METRICA V2 es para sistemas estrucutrado, por tanto ambas deben convivir en la industria.",
+          "METRICA V3 es para sistemas orientados a objeto y METRICA V2 es para sistemas estructurado, por tanto ambas deben convivir en la industria.",
           "METRICA V3 da soporte a los nuevos paradigmas orientados a objeto, además de soportar todo el ciclo de vida para los sistemas estructurados que soportaba METRICA V2",
           "METRICA V3 es una revisión de METRICA V2 para soportar arquitectura del software"
         ],
@@ -517,7 +517,7 @@
         "options": [
           "Un elemento en el que las diferentes funcionalidades de organizan de manera que estén más arriba aquellas que más urgencia tienen para el Dueño de Producto",
           "Una lista de casos de uso priorizados que el equipo va vaciando a medida que acaba con otros casos de uso anteriores hasta el llegar al final del Sprint",
-          "UNa lista de tareas a realziar durante el Sprint"
+          "UNa lista de tareas a realizar durante el Sprint"
         ],
         "answer": 0,
         "explanation": "1.5.2.4.2 Pila de producto (Product Backlog). La respuesta correcta es: Un elemento en el que las diferentes funcionalidades de organizan de manera que estén más arriba aquellas que más urgencia tienen para el Dueño de Producto"
@@ -527,7 +527,7 @@
         "options": [
           "RUP",
           "Espiral",
-          "cascada"
+          "Cascada"
         ],
         "answer": 0,
         "explanation": "1.5.2.2.1 Características de RUP. La respuesta correcta es: RUP"
@@ -595,7 +595,7 @@
       {
         "question": "El Modelo de desarrollo de versiones sucesivas es un método de realización de software que...",
         "options": [
-          "...realiza versiones beta que pone a disposicion probadores externos que reportan los errores.",
+          "...realiza versiones beta que pone a disposición probadores externos que reportan los errores.",
           "...se usa en productos que se venden bajo licencia para mejorar la funcionalidad.",
           "...realiza una serie de iteraciones sobre el propio modelo en cascada."
         ],
@@ -657,16 +657,16 @@
         "options": [
           "Formación, Competencias, Habilidades y Sociales",
           "Tecnológicas, Transversales y Sistémicas",
-          "Mediciones, Planificación, Riesgos, Normalización, Presupeustos y Simulaciones"
+          "Mediciones, Planificación, Riesgos, Normalización, Presupuestos y Simulaciones"
         ],
         "answer": 2,
-        "explanation": "1.3 Técnicas para la gestión de proyectos. La respuesta correcta es: Mediciones, Planificación, Riesgos, Normalización, Presupeustos y Simulaciones"
+        "explanation": "1.3 Técnicas para la gestión de proyectos. La respuesta correcta es: Mediciones, Planificación, Riesgos, Normalización, Presupuestos y Simulaciones"
       },
       {
-        "question": "¿Qué es un proceso en el entorno de los proyecto sinformáticos?",
+        "question": "¿Qué es un proceso en el entorno de los proyectos informáticos?",
         "options": [
           "Un proceso es un conjunto limitado de actividades que genera elementos de salida que son interesantes y de valor para el usuario",
-          "UN proceso es una actividad de duración espcialmente larga",
+          "UN proceso es una actividad de duración especialmente larga",
           "Un proceso es un elemento hardware que ejecuta instrucciones de bajo nivel"
         ],
         "answer": 0,
@@ -693,11 +693,11 @@
         "explanation": "1.3 Técnicas para la gestión de proyectos. La respuesta correcta es: la necesidad de medir el proyecto y la necesidad de identificación de hitos"
       },
       {
-        "question": "Una desventaja del modelo de cilco de vida en cascada es...",
+        "question": "Una desventaja del modelo de ciclo de vida en cascada es...",
         "options": [
           "Es un modelo pensado para hacer desarrollos en ensamblador",
           "No refleja realmente el proceso de desarrollo del software, ya que casi nunca se cierra totalmente una fase antes de comenzar la siguiente",
-          "Es un método muy antiguo y la informática ha evoluacionado"
+          "Es un método muy antiguo y la informática ha evolucionado"
         ],
         "answer": 1,
         "explanation": "1.5.1.1 El modelo en cascada. La respuesta correcta es: No refleja realmente el proceso de desarrollo del software, ya que casi nunca se cierra totalmente una fase antes de comenzar la siguiente"
@@ -765,7 +765,7 @@
       {
         "question": "Según Deemer...",
         "options": [
-          "Scrum es un marco de trabajo ágil para el desarrollo de peuqeños proyectos",
+          "Scrum es un marco de trabajo ágil para el desarrollo de pequeños proyectos",
           "Scrum es una metodología de trabajo para el desarrollo de software",
           "Scrum es un marco de trabajo iterativo e incremental para el desarrollo de proyectos, productos y aplicaciones"
         ],
@@ -786,7 +786,7 @@
         "question": "Las 34 competencias del libro de Furtel se dividen en tres tipos de habilidades:",
         "options": [
           "Técnicas de desarrollo del producto software, Habilidades de la Gestión de proyectos y Habilidades personales de los gestores de proyectos",
-          "Comptencias para la construcción de una estructura de desglose del trabajo, competencias para la selección de las herramientas de gestión de proyectos y competencias para la selección de personal",
+          "Competencias para la construcción de una estructura de desglose del trabajo, competencias para la selección de las herramientas de gestión de proyectos y competencias para la selección de personal",
           "Competencias económicas, competencias técnicas y competencias transversales"
         ],
         "answer": 0,
@@ -813,7 +813,7 @@
         "explanation": "Apuntes. 1.5.2.3.3 Características de XP. La respuesta correcta es: Las pruebas se realizan al finalizar el programa"
       },
       {
-        "question": "¿Cuál de las siguientes ventajas es del modelo de prototipos",
+        "question": "¿Cuál de las siguientes ventajas es del modelo de prototipos?",
         "options": [
           "Los modelos son validados por el propio usuario",
           "Se reaprovecha mucho código entre los prototipos",
@@ -821,11 +821,61 @@
         ],
         "answer": 0,
         "explanation": "1.5.1.2 El modelo de prototipos. La respuesta correcta es: Los modelos son validados por el propio usuario"
+      },
+      {
+        "question": "Una de las fases del modelo en espiral es:",
+        "options": [
+          "Creación de prototipos",
+          "Análisis de riesgos",
+          "Evaluación de presupuestos"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "Una de las fases del modelo en espiral es:",
+        "options": [
+          "Creación de prototipos",
+          "Análisis de riesgos",
+          "Evaluación de presupuestos"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "¿Cuál de las siguientes no es una metodología de desarrollo?",
+        "options": [
+          "RUP",
+          "OO",
+          "Ágiles"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "¿Cuál de las siguientes afirmaciones es correcta respecto a las tareas a realizar en un proyecto?",
+        "options": [
+          "Son tareas habituales",
+          "Pueden realizarse en cualquier orden sin importar las prioridades",
+          "Es necesario realizarlas para conseguir el objetivo"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "Según Sanchís Marco, ¿Qué etapas sigue la gestión de proyectos?",
+        "options": [
+          "Inicio, Elaboración, Construcción y Transición",
+          "Iniciación, Calificación, Desarrollo y Cierre",
+          "Requisitos, Análisis, Diseño, Implementación y Pruebas"
+        ],
+        "answer": 1,
+        "explanation": ""
       }
     ]
   },
   {
-    "topic": "Tema 2: Medición y estimación",
+    "topic": "Tema 2: MEDICIÓN Y ESTIMACIÓN",
     "questions": [
       {
         "question": "El Sistema relacional Empírico está formado por los conjuntos ...",
@@ -858,7 +908,7 @@
         "explanation": "2.1.1.2.1 Sistema relacional empírico. La respuesta correcta es: A (Distancias kilométricas entre dos puntos), R (Lejos, Cerca) y O (porcentaje de distancia, doble distancia, diferencia de distancia)"
       },
       {
-        "question": "El número medio de errores por cada módulo de programa, en un programa de comuncicaciones es",
+        "question": "El número medio de errores por cada módulo de programa, en un programa de comunicaciones es",
         "options": [
           "una métrica de software",
           "una métrica de comunicaciones",
@@ -961,7 +1011,7 @@
         "question": "¿Qué dos teorías se manejas para definir la formalidad de una medición?",
         "options": [
           "La teoría de la medida y la teoría de la medición",
-          "La teeoría de la medición y las métricas",
+          "La teoría de la medición y las métricas",
           "La teoría de la medición y la teoría de los número s reales"
         ],
         "answer": 0,
@@ -1182,10 +1232,10 @@
         "options": [
           "Un sistema homomorfo del Sistema Relacional Empírico que consiste en una representación real del SRE.",
           "Un sistema homomorfo del Sistema Relacional Empírico que consiste en una representación compleja del SRE.",
-          "Un sistema homomorfo del Sistema Relacional Empírico que consiste en una representación nunérica de dicho SRE."
+          "Un sistema homomorfo del Sistema Relacional Empírico que consiste en una representación numérica de dicho SRE."
         ],
         "answer": 2,
-        "explanation": "2.1.1.2.2 Sistema relacional numérico (formal). La respuesta correcta es: Un sistema homomorfo del Sistema Relacional Empírico que consiste en una representación nunérica de dicho SRE."
+        "explanation": "2.1.1.2.2 Sistema relacional numérico (formal). La respuesta correcta es: Un sistema homomorfo del Sistema Relacional Empírico que consiste en una representación numérica de dicho SRE."
       },
       {
         "question": "Para que una medición sea válida se debe asegurar su calidad, lo que obliga a ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros, 1996), una de ellas es",
@@ -1202,10 +1252,10 @@
         "options": [
           "ISO/IEC 20968:2002",
           "ISO/IEC 19761:2011",
-          "No tien una norma específica"
+          "No tienen una norma específica"
         ],
         "answer": 2,
-        "explanation": "2.4.1.1 Historia de los Puntos Función. La respuesta correcta es: No tien una norma específica"
+        "explanation": "2.4.1.1 Historia de los Puntos Función. La respuesta correcta es: No tienen una norma específica"
       },
       {
         "question": "Para que una medición sea válida se debe asegurar su calidad, lo que obliga a ésta a tener una serie de características importantes (Fenton, 1991) (Fenton, y otros, 1996), una de ellas es",
@@ -1221,7 +1271,7 @@
         "question": "Sea un conjunto formado por ficheros de código, sobre el cual se mide el número de errores, donde existen las relaciones \"más errors que\" y \"menos errores que\" y donde se define la operación \"aglutinar errores de dos o más ficheros\", ¿Que forma?",
         "options": [
           "Un sistema relacional empírico",
-          "Ninguno de ambos, poque sólo hay una operación",
+          "Ninguno de ambos, porque sólo hay una operación",
           "Un sistema relacional formal"
         ],
         "answer": 0,
@@ -1241,18 +1291,18 @@
         "question": "De acuerdo a los pasos definidos para la estimación de una proyecto de software, ¿cuál de los siguientes no es un paso definido para dicha estimación?",
         "options": [
           "Estimar el coste de una unidad de tiempo de desarrollo.",
-          "Estimar el nivel de paralelismo en l aejecución de las actividades del proyecto.",
+          "Estimar el nivel de paralelismo en la ejecución de las actividades del proyecto.",
           "Estimar el esfuerzo en horas-hombre que toma implementar una unidad de tamaño."
         ],
         "answer": 1,
-        "explanation": "2.3 Introducción a los modelos de estimación de software (CEM). La respuesta correcta es: Estimar el nivel de paralelismo en l aejecución de las actividades del proyecto."
+        "explanation": "2.3 Introducción a los modelos de estimación de software (CEM). La respuesta correcta es: Estimar el nivel de paralelismo en la ejecución de las actividades del proyecto."
       },
       {
         "question": "Desde el punto de vista de la calidad de una medición, la escala...",
         "options": [
           "...habla de relación entre el orden, el intervalo y el ratio",
           "...permite reflexionar sobre la capacidad del sistema para ser preciso en una medida",
-          "...habla de la necesiad de que en cualquier escala la medida debe ser única"
+          "...habla de la necesidad de que en cualquier escala la medida debe ser única"
         ],
         "answer": 1,
         "explanation": "2.1.1.2.4.1 Escala. De la vista de los tipos de escala se desprenderá la calidad con la que se puede medir el atributo.. La respuesta correcta es: ...permite reflexionar sobre la capacidad del sistema para ser preciso en una medida"
@@ -1262,7 +1312,7 @@
         "options": [
           "COCOMO, Métricas Bang de DeMarco, Puntos Función",
           "Históricos basados en la experiencia, se base estadística, con base teórica y compuestos",
-          "Puntos Función, Denphi y técnicas estadísticas"
+          "Puntos Función, Delphi y técnicas estadísticas"
         ],
         "answer": 1,
         "explanation": "2.3.2 Modelos de Estimación de Costes. La respuesta correcta es: Históricos basados en la experiencia, se base estadística, con base teórica y compuestos"
@@ -1328,7 +1378,7 @@
         "explanation": "2.1.1.3 Medición orientada a la caracterización del objeto. La respuesta correcta es: permite hacer caracterizaciones de un objeto en función de varias mediciones"
       },
       {
-        "question": "¿Cuántos valores pueden tomar los factores de ajuste en la tecnica de Puntos Función de Albretch?",
+        "question": "¿Cuántos valores pueden tomar los factores de ajuste en la técnica de Puntos Función de Albretch?",
         "options": [
           "3",
           "5",
@@ -1352,7 +1402,7 @@
         "options": [
           "Escala, Unicidad, Representatividad y Significación",
           "Desviación, Derivación, Variación y Corrección",
-          "omplejidad, Flexibilidad, Consistencia y Adecuación"
+          "Complejidad, Flexibilidad, Consistencia y Adecuación"
         ],
         "answer": 0,
         "explanation": "2.1.1.2.4 Calidad de la medición. La respuesta correcta es: Escala, Unicidad, Representatividad y Significación"
@@ -1390,22 +1440,22 @@
       {
         "question": "El estándar BS5750 (BS 5750-8, 1991) define los principios de aseguramiento de calidad de los productos y servicios, en él, las mediciones son necesarias como:",
         "options": [
-          "Descriptores, Prescriptore y Predictores",
+          "Descriptores, Prescriptores y Predictores",
           "Métricas, Mediciones y Medidas",
           "Evaluadores, Comparadores y Decisores"
         ],
         "answer": 0,
-        "explanation": "2.1.1 Teoría de la Medición. La respuesta correcta es: Descriptores, Prescriptore y Predictores"
+        "explanation": "2.1.1 Teoría de la Medición. La respuesta correcta es: Descriptores, Prescriptores y Predictores"
       },
       {
         "question": "Desde el punto de vista de la calidad de la medición, la Representatividad define las condiciones en que debe definirse la función de transformación T para que el homomorfismo entre el sistema relacional empírico y formal aseguren la correspondencia entre las propiedades observadas y el sistema formal de representación elegido, ¿Qué quiere decir esto?",
         "options": [
           "Que una vez elegido un sistema numérico o formal, todo lo relacionado con el sistema empírico deja de tener interés en la medición",
-          "Que se debe demostrar formalmente que la escala elegida y las transfomraciones del homomorfismo tienen sentido",
+          "Que se debe demostrar formalmente que la escala elegida y las transformaciones del homomorfismo tienen sentido",
           "Que las mediciones deben hacerse usando el sistema numérico y no el empírico"
         ],
         "answer": 1,
-        "explanation": "2.1.1.2.4.3 Representatividad. La respuesta correcta es: Que se debe demostrar formalmente que la escala elegida y las transfomraciones del homomorfismo tienen sentido"
+        "explanation": "2.1.1.2.4.3 Representatividad. La respuesta correcta es: Que se debe demostrar formalmente que la escala elegida y las transformaciones del homomorfismo tienen sentido"
       },
       {
         "question": "¿Qué escalas son las que obligan a que las transformaciones de escala deban conservar el origen aunque puedan modificar la pendiente de la escala (T(x)=αm,α>0)?",
@@ -1448,7 +1498,7 @@
         "explanation": "2.1.1 Teoría de la Medición. La respuesta correcta es: lograr que la descripción que las métricas aportan del sistema sea objetiva, exacta, reproducible, segura y significativa"
       },
       {
-        "question": "en la técnica de Puntos Funcion ¿Cuántos son los factores de ajuste?",
+        "question": "en la técnica de Puntos Función ¿Cuántos son los factores de ajuste?",
         "options": [
           "18",
           "16",
@@ -1465,7 +1515,7 @@
           "Una pseudométrica es una función no negativa δ de dos variables que no satisface alguna de las condiciones de: identidad, simetría o desigualdad triangular"
         ],
         "answer": 1,
-        "explanation": "2.1.3.2 Métricas y pseudo-métricas. La respuesta correcta es: Una métrica es una pseudométrica que satisface un axioma de identidad más estricto"
+        "explanation": "La respuesta correcta es: Una métrica es una pseudométrica que satisface un axioma de identidad más estricto. ¡OJO! También es correcta la opción a) :/"
       },
       {
         "question": "¿Cuando se usan escalas ordinales?",
@@ -1486,18 +1536,288 @@
         ],
         "answer": 1,
         "explanation": "2.1.1.2.4.4 Significación. La respuesta correcta es: Su valor es un invariante bajo transformaciones admisibles"
+      },
+      {
+        "question": "¿Cuál de las siguientes afirmaciones es falsa?:",
+        "options": [
+          "Una pseudométrica es una función no negativa δ de dos variables que no satisface alguna de las condiciones de: identidad, simetría o desigualdad triangular",
+          "Una métrica es una pseudométrica que satisface un axioma de identidad más estricto",
+          "Las métricas de software conforman un sistema uniforme y estandarizado de medidas"
+        ],
+        "answer": 0,
+        "explanation": "2.1.3.2 Métricas y pseudo-métricas. La respuesta correcta es: Una métrica es una pseudométrica que satisface un axioma de identidad más estricto"
+      },
+      {
+        "question": "Para evaluar la precisión de un método de estimación, Boehm propone un modelo basado en la medición del esfuerzo en meses-hombre ( MHe ) y la comparación con el esfuerzo real (MHa). Siendo MRE el parámetro de evaluación buscado, ¿cuál es el modelo de evaluación final prouesto?",
+        "options": [
+          "(MHe - MHa) / MHa",
+          "MRE = |MHe - MHa| / MHa",
+          "MHe - MHa"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "CoCoMo utiliza quince factores correctores o Cost Drivers, ¿Cuál de los siguientes NO pertenece a dichos factores?",
+        "options": [
+          "Experiencia con el tipo de aplicación (personal)",
+          "Experiencia con el lenguaje de programación (personal)",
+          "Tamaño del equipo de programación (personal)"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "Las métricas de Chidamber y Kemerer (MOOSE) son mayormente...",
+        "options": [
+          "Métricas de estructuras de control",
+          "Métricas de estructuras de clases",
+          "Métricas de esfuerzo"
+        ],
+        "answer": 1,
+        "explanation": "Respuesta correcta: Métricas de estructuras de clases. Estudian las clases y obtienen datos a partir de ellas"
+      },
+      {
+        "question": "Una de las razones por las cuales las métricas no son usadas más ampliamente en la industria del software es que resulta difícil en la práctica obtener datos adecuados Idealmente, ¿Cómo deberían ser los valores de las métricas?",
+        "options": [
+          "Repetibles, comparables y verificados",
+          "Prescriptores, predictores y comparadores",
+          "Deberían medir siempre atributos internos del objeto"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "Atendiendo a las entidades sobre las que se aplica, una métrica de software puede clasificarse como métrica de... Seleccione una:",
+        "options": [
+          "Aplicativos, módulos y librerías",
+          "Atributos internos y externos",
+          "Procesos, productos y recursos"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "¿En qué se basan las métricas Bang de DeMarco?",
+        "options": [
+          "Se basan en medidas tomadas a partir de los Diagramas de Estructuras y de los Diagramas de Entidad-Relación",
+          "Se basan en medidas tomadas a partir de los Diagramas de Flujo de Datos y de los Diagramas de Entidad-Relación",
+          "Se basan en medidas tomadas a partir de los Diagramas de Flujo de Datos y de los Diagramas de Estructuras"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "En Taylor (Taylor, 1993) ¿Qué métricas se propones como básicas para un sistema Orientado a Objeto?",
+        "options": [
+          "Número de atributos, de métodos, de restricciones, y niveles de herencia",
+          "Número de niveles de herencia, de relaciones de agregación, de relaciones de uso y de niveles de anidación de paquetes",
+          "Número de servicios, de objetos, total de mensajes, de objetos que reciben mensajes, total de parámetros y ratio de servicios públicos/privados"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "Los ajustes en un sistema de Puntos Función se hacen...",
+        "options": [
+          "Valorando de 0 a 5 una lista de 14 características de complejidad",
+          "Multiplicando el valor obtenido por 1,35",
+          "Minorando o incrementando el valor en función de la experiencia de proyectos anteriores"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "Las escalas nominales son...",
+        "options": [
+          "las que se usan para denotar pertenencia a una clase (color, etiquetado...)",
+          "las que ponen valores numéricos a los datos medidos",
+          "las que miden texto escrito en el código fuente"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Cuál de las siguientes es una métrica orientada a objeto?",
+        "options": [
+          "CoCoMo de Boehm",
+          "Puntos Función de Albrecht",
+          "MOOSE de Chidamber y Kemerer"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "¿En qué principio se basa SLIM, de Larry Putnam?",
+        "options": [
+          "En las curvas de Rayleigh",
+          "En la valoración de los cost drivers",
+          "En las estructuras de entrada y salida"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Qué tipo de métrica proponen Cant et al. (Cant, y otros, 1994)?",
+        "options": [
+          "Proponen un enfoque teórico basado en el análisis de modelos cognitivos para la búsqueda de errores en el código por parte del programador",
+          "Proponen un enfoque teórico basado en el análisis de modelos cognitivos para la comprensión del código por parte del programador",
+          "Proponen un enfoque teórico basado en el análisis de modelos cognitivos para la revisión del código por parte del programador"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "Henry y Kafura describieron una métrica compleja para los procedimientos, basada en los flujos de información. En este mátrica, ¿Qué es el fan-out?",
+        "options": [
+          "Es la lista de campos de las bases de datos actualizadas en un procedimiento",
+          "Es la lista de atributos que haya en los objetos que sean valor de retorno",
+          "Es el número de flujos de datos locales que salen del procedimiento más el número"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "Las métricas de McCabe son...",
+        "options": [
+          "Métricas de estructuras de datos",
+          "Métricas de estructuras de control",
+          "Métricas de esfuerzo"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "Hablando de medidas de software, cuando se miden atributos internos...",
+        "options": [
+          "se miden valores difíciles de formalizar",
+          "es la percepción del observador la que valora el objeto a medir",
+          "se están midiendo valores intrínsecos al objeto a medir"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "La corriente económica de estimación de software ¿Qué características tiene?",
+        "options": [
+          "Se caracteriza por el desarrollo de sistemas de métricas orientados a estimar el coste de los sistemas de software ya realizado",
+          "Se caracteriza por buscar métricas cuya aplicación sea económicamente rentable",
+          "Se caracteriza por buscar modelos que calculen el coste más rentable para un proyecto"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "CoCoMo soporta tres modelos de desarrollo distintos, ¿cuáles?",
+        "options": [
+          "Simples, semicomplejos y complejos",
+          "Organic, semi-detached y embedded",
+          "Pequeños, medianos y grandes"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "El método Fog de Gunning, ¿qué evalúa?",
+        "options": [
+          "La legibilidad de un código fuente",
+          "La legibilidad de un texto escrito en inglés",
+          "La legibilidad de un texto escrito en cualquier idioma"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "¿Cuál de las siguientes es una métrica de hardware?",
+        "options": [
+          "La velocidad de caída libre de un cuerpo",
+          "El tamaño de la memoria de un ordenador",
+          "La ocupación de un programa en memoria"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "Hablando de medidas de software, cuando se miden atributos externos...",
+        "options": [
+          "no influye la percepción del observador",
+          "es la percepción del observador la que valora el objeto a medir",
+          "se están midiendo valores intrínsecos al objeto a medir"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "DeMarco, en su libro Controlling Software Projects (DeMarco, 1982), identifica varias razones que provocan dificultad de estimación del coste del software. Una de ellas es:",
+        "options": [
+          "Los sistemas de estimación se usan mal y eso da valores erróneos",
+          "Se menosprecian o no se tienen en cuenta las no linealidades de las duraciones de las tareas en proyectos grandes",
+          "No se usan los sistemas de estimación"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "¿Cuál es el mayor exponente de entre los métodos de estimación de la corriente económica?",
+        "options": [
+          "CoCoMo",
+          "Walston & Felix",
+          "Slim"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "Kitchenham y McDermid (Kitchenham, y otros, 1986) sugirieron que la recolección de datos para tener éxito debe cumplir algunos requisitos. ¿Cuán de los siguientes es uno de ellos?",
+        "options": [
+          "La recolección de datos debe estar automatizada siempre",
+          "Los datos que no pueden ser recogidos automáticamente carecen de interés",
+          "La recolección de datos está integrada dentro del proceso de desarrollo"
+        ],
+        "answer": 2,
+        "explanation": ""
+      },
+      {
+        "question": "¿Cuál es la diferencia principal entre los métodos de las corrientes económica y Rayleigh y la corriente de puntos función de Albrecht?",
+        "options": [
+          "Los modelos de las correintes económica y Rayleigh se usan en proyectos estructurados, y los Puntos Función en proyectos orientados a objetos",
+          "Los modelos de las correintes económica y Rayleigh necesitan las líneas de código, y los Puntos Función se basan en los requisitos y el análisis",
+          "Los modelos de las correintes económica y Rayleigh se usan en proyectos grandes, y los Puntos Función en proyectos pequeños"
+        ],
+        "answer": 1,
+        "explanation": ""
+      },
+      {
+        "question": "¿Cuál es el proceso de medición de los Puntos Función de Albrecht?",
+        "options": [
+          "Contar las funciones de usuario y ajustar el sistema para la complejidad del entorno del proceso",
+          "Identificar Tipos de entradas externas, salidas externas, ficheros lógicos internos, ficheros de interface externos y de consultas externas",
+          "Identificar las entradas y salidas, y contar los puntos función de cada una"
+        ],
+        "answer": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Qué propuesta de métrica hacen Barnes y Swim?",
+        "options": [
+          "Proponen un modelo de estimación del diseño orientado a objetos basado en la medición de la herencia",
+          "Proponen un modelo heredado de otros anteriores pero adaptado a la orientación a objeto",
+          "Proponen una extensión del paradigma de la orientación a objeto y del entorno de programación que permita heredar métricas de software"
+        ],
+        "answer": 2,
+        "explanation": ""
       }
     ]
   },
   {
-    "topic": "Tema 3: Organización de los recursos del proyecto",
+    "topic": "Tema 3: ORGANIZACIÓN DE LOS RECURSOS DEL PROYECTO",
     "questions": [
       {
         "question": "Hablando de estimación de duración de las actividades, ¿En qué consiste la Estimación de tres puntos?",
         "options": [
           "La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración: más probable, optimista y pesimista",
           "La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración y quedarse con la más probable",
-          "La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración usando téncinas de simulación Monte Carlo"
+          "La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración usando técnicas de simulación Monte Carlo"
         ],
         "answer": 0,
         "explanation": "3.7.1 Técnicas. La respuesta correcta es: La estimación por tres puntos (o tres valores) se basa en hacer un cálculo de tres tipos de estimación de duración: más probable, optimista y pesimista"
@@ -1506,11 +1826,11 @@
         "question": "Las relaciones entre los elementos de un WBS, ¿de qué tipos son?",
         "options": [
           "Son del tipo \"pertenece a\" para determinar qué productos forman parte de otros más complejos",
-          "Son del tipo \"está compuesto de\" cuando se va de la raiz a las hojas y del tipo \"forma parte de\" cuando se va hacia la raíz",
-          "Son del tipo \"Será realiado por\" para determinar qué trabajos realizarán qué personas en el proyecto"
+          "Son del tipo \"está compuesto de\" cuando se va de la raíz a las hojas y del tipo \"forma parte de\" cuando se va hacia la raíz",
+          "Son del tipo \"Será realizado por\" para determinar qué trabajos realizarán qué personas en el proyecto"
         ],
         "answer": 1,
-        "explanation": "(Sanchís Marco, 1998), 4. Formalización de Proyectos Informáticos, (4.1.1 WBS). La respuesta correcta es: Son del tipo \"está compuesto de\" cuando se va de la raiz a las hojas y del tipo \"forma parte de\" cuando se va hacia la raíz"
+        "explanation": "(Sanchís Marco, 1998), 4. Formalización de Proyectos Informáticos, (4.1.1 WBS). La respuesta correcta es: Son del tipo \"está compuesto de\" cuando se va de la raíz a las hojas y del tipo \"forma parte de\" cuando se va hacia la raíz"
       },
       {
         "question": "La planificación temporal del proyecto es...",
@@ -1555,7 +1875,7 @@
       {
         "question": "¿Cómo se desarrolla una EDT?",
         "options": [
-          "Una EDT es un producto formado por el WBS y el OBS, por lo cual se ncesaitna ambos elementos",
+          "Una EDT es un producto formado por el WBS y el OBS, por lo cual se necesitan ambos elementos",
           "Para desarrollar una Estructura Desglosada de Trabajo se necesita contar con la matriz de resultados, los documentos de aprobación del proyecto e información histórica de proyectos similares",
           "Las EDT se desarrollan a partir de WBS, revisando una a una las actividades"
         ],
@@ -1563,10 +1883,10 @@
         "explanation": "(PMAR, 2014). La respuesta correcta es: Para desarrollar una Estructura Desglosada de Trabajo se necesita contar con la matriz de resultados, los documentos de aprobación del proyecto e información histórica de proyectos similares"
       },
       {
-        "question": "¿Qué es un stakehoder?",
+        "question": "¿Qué es un stakeholder?",
         "options": [
           "Un stakeholder es cualquier individuo, grupo u organización que pueda afectar o sentirse afectado por cualquier decisión, actividad o resultado del proyecto",
-          "Un stakeholder es cualquier individuo, grupo u organización que pueda sentirse afectado por aspectos socioculturales cuando el proyecto tiene caracter global",
+          "Un stakeholder es cualquier individuo, grupo u organización que pueda sentirse afectado por aspectos socioculturales cuando el proyecto tiene carácter global",
           "Un stakeholder es cualquier individuo, grupo u organización que haya invertido dinero en el proyecto"
         ],
         "answer": 0,
@@ -1576,7 +1896,7 @@
         "question": "La organización y estilos culturales de una empresa, ¿Qué experiencias comunes incluyen?",
         "options": [
           "Visión, misión, valores, creencia y expectativas",
-          "Resultados empresariales, posición de mercado y márketing corporativo",
+          "Resultados empresariales, posición de mercado y marketing corporativo",
           "Departamentos, oficinas, locales, etc."
         ],
         "answer": 0,
@@ -1627,7 +1947,7 @@
         "options": [
           "Start-to-Start, es una relación que indica que una actividad no puede comenzar hasta que otra concreta haya terminado",
           "Start-to-Start, es una relación que indica que una actividad no puede comenzar hasta que otra concreta haya comenzado",
-          "Start-to-Start, es una relación que indica que una actividad varias actividades debeb comenzar juntas"
+          "Start-to-Start, es una relación que indica que una actividad varias actividades deben comenzar juntas"
         ],
         "answer": 1,
         "explanation": "3.5.2.1 Precedencias de las actividades. La respuesta correcta es: Start-to-Start, es una relación que indica que una actividad no puede comenzar hasta que otra concreta haya comenzado"
@@ -1635,7 +1955,7 @@
       {
         "question": "¿Cuál de los siguientes es un beneficio aportado al proyecto por el WBS?",
         "options": [
-          "Realiza la verificación del alcance del poryecto",
+          "Realiza la verificación del alcance del proyecto",
           "Realiza la validación del alcance del proyecto",
           "Apoya en el proceso de verificación del alcance del proyecto"
         ],
@@ -1645,18 +1965,18 @@
       {
         "question": "¿Cómo se comportan los stakeholders respecto a la responsabilidad y autoridad en le proyecto?",
         "options": [
-          "Tienen diferentes niveles de responsabilidad y autoridad que pueden varial a lo largo del proyecto",
+          "Tienen diferentes niveles de responsabilidad y autoridad que pueden variar a lo largo del proyecto",
           "Tiene autoridad, pero no responsabilidad en el proyecto",
-          "Tienen un papel bien definido con un nivel de responsabiliad y autoridad perfectamente acotado durante todo el proeycto"
+          "Tienen un papel bien definido con un nivel de responsabilidad y autoridad perfectamente acotado durante todo el proyecto"
         ],
         "answer": 0,
-        "explanation": "(PMBOK, 2013) 2.2.1 Project Stakeholders. La respuesta correcta es: Tienen diferentes niveles de responsabilidad y autoridad que pueden varial a lo largo del proyecto"
+        "explanation": "(PMBOK, 2013) 2.2.1 Project Stakeholders. La respuesta correcta es: Tienen diferentes niveles de responsabilidad y autoridad que pueden variar a lo largo del proyecto"
       },
       {
         "question": "Hablando de dependencia entre las actividades, ¿Qué es la Dependencia Interna?",
         "options": [
           "Son actividades que sólo se relacionan con ellas mismas",
-          "Son actividades que tienen relaciones con otras actividades, pero sus reslutados son propios del proyecto",
+          "Son actividades que tienen relaciones con otras actividades, pero sus resultados son propios del proyecto",
           "Las dependencias internas se refieren a relaciones entre las propias actividades del proyecto"
         ],
         "answer": 2,
@@ -1676,7 +1996,7 @@
         "question": "Hablando de estimación de recursos para las actividades, ¿En qué consisten los Análisis alternativos?",
         "options": [
           "Son métodos experimentales que están poco probados en la industria",
-          "Consiste en recalcular toda la estimación de recuros con otro métodos difenrente del usado por primera vez",
+          "Consiste en recalcular toda la estimación de recursos con otro métodos diferentes del usado por primera vez",
           "Son habitualmente métodos ad-hoc de cualquier tipo que ayudan a la estimación"
         ],
         "answer": 2,
@@ -1686,7 +2006,7 @@
         "question": "Hablando de estimación de recursos para las actividades, ¿En qué consiste la estimación Estimación Bottom-Up?",
         "options": [
           "Consiste en estimar las actividades por su importancia, comenzando por las de mayor importancia",
-          "Es una tarea que calcula primero los costes de las actividadesmás sencillas y después los de las más complejas",
+          "Es una tarea que calcula primero los costes de las actividades más sencillas y después los de las más complejas",
           "Es una técnica de estimación que va a de las tareas de mayor detalle a la las de mayor nivel sumando los costes de las tareas componentes"
         ],
         "answer": 2,
@@ -1706,7 +2026,7 @@
         "question": "¿Qué es el WBS?",
         "options": [
           "Word Breakdown Structure, se usa para representar el diccionario de datos del proyecto",
-          "World Breakdown Structure, se usa par representar la estrcutura cultural de un proyecto globalizado",
+          "World Breakdown Structure, se usa par representar la estructura cultural de un proyecto globalizado",
           "Work Breakdown Structure, se utiliza para representar la estructura de descomposición del trabajo"
         ],
         "answer": 2,
@@ -1783,10 +2103,10 @@
         "explanation": "(PMBOK, 2013) 2.1.4.1 Processes and Procedures. La respuesta correcta es: Procesos financieros y gestión de riesgos"
       },
       {
-        "question": "¿Qué son los cilcos de vida adaptativos?",
+        "question": "¿Qué son los ciclos de vida adaptativos?",
         "options": [
           "Los ciclos de vida adaptativos tienen por objeto responder a los altos niveles de cambio y la participación continua de las partes interesadas",
-          "Los cilcos de vida adaptativos son aquellos que evolucionan con la política de la empresa",
+          "Los ciclos de vida adaptativos son aquellos que evolucionan con la política de la empresa",
           "Los ciclos de vida adaptativos son aquellos que pueden responder a los riesgos del proyecto"
         ],
         "answer": 0,
@@ -1805,7 +2125,7 @@
       {
         "question": "Hablando de dependencia entre las actividades, ¿Qué es la Dependencia Externa?",
         "options": [
-          "Son actividades que no pertenecen al proyecto, auqnue se ejecuten al mismo tiempo",
+          "Son actividades que no pertenecen al proyecto, aunque se ejecuten al mismo tiempo",
           "Son actividades que incluyen relaciones a actividades externas no pertenecientes al proyecto",
           "Son actividades que tienen resultados más allá del alcance del proyecto"
         ],
@@ -1826,11 +2146,11 @@
         "question": "Hablando de estimación de recursos para las actividades, ¿En qué consiste la existencia de Datos de estimación publicados?",
         "options": [
           "Consiste en tener listas de precios para las actividades",
-          "Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puede calcualr fácilmente los recusos que precisan aplicando dichas tablas",
+          "Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puede calcular fácilmente los recursos que precisan aplicando dichas tablas",
           "Consiste en publicar los precios de las actividades del proyecto para que el cliente sepa los costes a priori"
         ],
         "answer": 1,
-        "explanation": "3.6 Estimación de recursos. La respuesta correcta es: Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puede calcualr fácilmente los recusos que precisan aplicando dichas tablas"
+        "explanation": "3.6 Estimación de recursos. La respuesta correcta es: Consiste en actividades que, por experiencia previa, se tienen tabuladas y se puede calcular fácilmente los recursos que precisan aplicando dichas tablas"
       },
       {
         "question": "Según el (PMBOK, 2013), las técnicas habituales para la definición de actividades son...",
@@ -1857,15 +2177,15 @@
         "options": [
           "Las empresas que se dedican a realizar proyectos deben tener una estructura orientada a proyectos, no pueden tener una estructura funcional",
           "Los proyectos se realizan desde empresas con organizaciones orientadas a proyectos para empresas con organización funcional",
-          "La estructura organizacional es un factor del entorno de la empresa que puede afectar la dsiponibilidad de recursos e influenciar como se dirigen los proyectos"
+          "La estructura organizacional es un factor del entorno de la empresa que puede afectar la disponibilidad de recursos e influenciar como se dirigen los proyectos"
         ],
         "answer": 2,
-        "explanation": "(PMBOK, 2013) 2.1.3 Organizational Structures. La respuesta correcta es: La estructura organizacional es un factor del entorno de la empresa que puede afectar la dsiponibilidad de recursos e influenciar como se dirigen los proyectos"
+        "explanation": "(PMBOK, 2013) 2.1.3 Organizational Structures. La respuesta correcta es: La estructura organizacional es un factor del entorno de la empresa que puede afectar la disponibilidad de recursos e influenciar como se dirigen los proyectos"
       },
       {
         "question": "Hablando de estimación de duración de las actividades, ¿En qué consiste la Técnica Delphi?",
         "options": [
-          "Es una téncica paramétrica de cálculo que consite en iteraciones de cáclulo que van afinando la duración de una actividad",
+          "Es una técnica paramétrica de cálculo que consiste en iteraciones de cálculo que van afinando la duración de una actividad",
           "Es un proceso iterativo de valoración por parte de expertos que, en cada iteración, valoran en función de los resultados de la anterior",
           "Es un proceso basado en simulaciones de duración usando técnicas como por ejemplo Monte Carlo"
         ],
@@ -1923,7 +2243,7 @@
         "explanation": "3.7.1 Técnicas. La respuesta correcta es: Las estimaciones pueden incluir tiempos reservados para contingencias (buffers) pensados para situaciones de riesgo en las que la duración podría extenderse"
       },
       {
-        "question": "¿En qué consiste la Definción del Cronograma del Proyecto?",
+        "question": "¿En qué consiste la Definición del Cronograma del Proyecto?",
         "options": [
           "Es un proceso para colocar todas las actividades en un margen de tiempo definido a priori para el proyecto",
           "Es el proceso de análisis de secuencias de actividades, duraciones, requisitos de recursos y restricciones del propio cronograma para crear un modelo de programación del proyecto",
@@ -1967,7 +2287,7 @@
         "options": [
           "Un tarea hamaca es una tarea con holguras en el WBS",
           "Una tarea hamaca está definida por un conjunto de tareas detalladas",
-          "Una tarea hamaca es una tarea que dorma parte de un supeertarea"
+          "Una tarea hamaca es una tarea que forma parte de una supertarea"
         ],
         "answer": 1,
         "explanation": "(Sanchís Marco, 1998), 4. Formalización de Proyectos Informáticos, (4.1.1 WBS). La respuesta correcta es: Una tarea hamaca está definida por un conjunto de tareas detalladas"
@@ -2055,7 +2375,7 @@
     ]
   },
   {
-    "topic": "Tema 4: Gestión de recursos humanos",
+    "topic": "Tema 4: GESTIÓN DE RECURSOS HUMANOS",
     "questions": [
       {
         "question": "¿De quién es la responsabilidad de mejorar las condiciones de trabajo del equipo?",
@@ -2737,7 +3057,7 @@
     ]
   },
   {
-    "topic": "Tema 5: Gestión de costes",
+    "topic": "Tema 5: GESTIÓN DE COSTES",
     "questions": [
       {
         "question": "Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿Qué es la Variación del Coste (CV)?",
@@ -3411,7 +3731,7 @@
     ]
   },
   {
-    "topic": "Tema 6: Gestión de riesgos",
+    "topic": "Tema 6: GESTIÓN DE RIESGOS",
     "questions": [
       {
         "question": "¿Qué son la categorías de riesgo?",
@@ -4106,7 +4426,7 @@
     ]
   },
   {
-    "topic": "Tema 7: Gestión de calidad",
+    "topic": "Tema 7: GESTIÓN DE CALIDAD",
     "questions": [
       {
         "question": "¿Qué son los Estándares de Calidad?",
@@ -4629,7 +4949,7 @@
     ]
   },
   {
-    "topic": "Tema 8: Documentación y comunicación",
+    "topic": "Tema 8: DOCUMENTACIÓN Y COMUNICACIÓN",
     "questions": [
       {
         "question": "¿Cuáles son las técnicas de Gestión de las Comunicaciones?",
@@ -5207,7 +5527,7 @@
     ]
   },
   {
-    "topic": "Tema 9: Seguimiento y control",
+    "topic": "Tema 9: SEGUIMIENTO Y CONTROL",
     "questions": [
       {
         "question": "¿Cuál de los siguientes NO es un beneficio propio de la gestión del cambio?",
