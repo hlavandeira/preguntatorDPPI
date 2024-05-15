@@ -3380,7 +3380,7 @@
         "explanation": "5.3.1 Técnicas. La respuesta correcta es: En que el coste del proyecto debe ser, finalmente, conciliado con el gasto previsto para el proyecto"
       },
       {
-        "question": "Hablando de las técnicas para la elaboración del presupuesto, ¿en qué consiste las Relaciones históricas?",
+        "question": "Hablando de las técnicas para la elaboración del presupuesto, ¿en qué consisten las Relaciones históricas?",
         "options": [
           "Consiste en usar como base la información histórica de otros proyectos similares",
           "Consiste en usar las relaciones con expertos para buscar su consejo",
@@ -3807,26 +3807,6 @@
         ],
         "answer": 1,
         "explanation": "Respuesta correcta: Se solicitan ofertas a proveedores sobre algunas partes del desarrollo y se estudian"
-      },
-      {
-        "question": "Hablando de las técnicas para la elaboración del presupuesto, ¿en qué consisten las Relaciones históricas?",
-        "options": [
-          "Consiste en buscar relaciones con otros proyectos para ajustar las actividades comunes",
-          "Consiste en usar como base la información histórica de otros proyectos similares",
-          "Consiste en usar las relaciones con expertos para buscar su consejo"
-        ],
-        "answer": 1,
-        "explanation": "Respuesta correcta: Consiste en usar como base la información histórica de otros proyectos similares"
-      },
-      {
-        "question": "Con respecto a la técnica de Predicción dentro del Control de Costes, ¿cómo se calcula el EAC considerando ambos, el ratio de presupuesto y el valor actual del índice de rendimiento de costes?",
-        "options": [
-          "EAC = AC + [(BAC – EV) / (CPI × SPI)]",
-          "EAC = BAC / CPI",
-          "EAC = AC + (BAC – EV)"
-        ],
-        "answer": 0,
-        "explanation": "Respuesta correcta: EAC = AC + [(BAC – EV) / (CPI × SPI)]"
       },
       {
         "question": "Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿en qué consiste la Gestión del Valor ganado o acumulado?",
@@ -5742,7 +5722,7 @@
           "...de ámbito internacional y sectorial",
           "...de ámbito nacional y sectorial"
         ],
-        "answer": 1,
+        "answer": 2,
         "explanation": "Respuesta correcta: ...de ámbito internacional y sectorial"
       }
     ]
