@@ -3183,7 +3183,7 @@
         "question": "Con respecto a las salidas del Plan de Gestión de Costes, ¿en qué consisten los Umbrales de Control (Control Thresholds)?",
         "options": [
           "Es el umbral de precisión en la medición de una actividad que debe ser detallado anticipadamente",
-          "Es la cantidad de variación acordada que se le permite al coste de una actividad antes de deban tomarse ciertas acciones",
+          "Es la cantidad de variación acordada que se le permite al coste de una actividad antes de que deban tomarse ciertas acciones",
           "Es la cantidad máxima de dinero en reservas que pueden establecerse para un proyecto concreto"
         ],
         "answer": 1,
@@ -3390,27 +3390,17 @@
         "explanation": "5.3.1 Técnicas. La respuesta correcta es: Consiste en usar como base la información histórica de otros proyectos similares"
       },
       {
-        "question": "Hablando de las técnicas analíticas para la elaboración del Plan de gestión de costes, ¿qué estrategias de financiación principales se definen?",
-        "options": [
-          "Autofinanciación, Financiación de socios y Financiación con deuda",
-          "Crear con medios propios, Comprar, Alquilar y Leasing",
-          "Periodo de recuperación, Retorno de la inversión (ROI), Tasa interna de rentabilidad, Flujo de caja descontado y Valor presente neto (NPV)"
-        ],
-        "answer": 0,
-        "explanation": "5.1.1 Técnicas. La respuesta correcta es: Autofinanciación, Financiación de socios y Financiación con deuda"
-      },
-      {
         "question": "¿Cuál de los siguientes es una lista de elementos del Plan de gestión de costes?",
         "options": [
           "Unidades de medida, Nivel de redondeos, y Nivel de precisión",
           "Costes de hora, Definición de riesgos y Requisitos de financiación",
-          "Definición dela jornada laboral, costes de las dietas y costes por kilómetro"
+          "Definición de la jornada laboral, costes de las dietas y costes por kilómetro"
         ],
         "answer": 0,
         "explanation": "5.1.2 Resultados del Plan de Gestión de costes. La respuesta correcta es: Unidades de medida, Nivel de redondeos, y Nivel de precisión"
       },
       {
-        "question": "Con respecto a la técnica de Predicción dentro del Control de Costes, ¿cómo se calcual el EAC considerando ambos, el ratio de presupuesto y el valor actual del índice de rendimiento de costes?",
+        "question": "Con respecto a la técnica de Predicción dentro del Control de Costes, ¿cómo se calcula el EAC considerando ambos, el ratio de presupuesto y el valor actual del índice de rendimiento de costes?",
         "options": [
           "EAC = AC + [(BAC – EV) / (CPI × SPI)]",
           "EAC = BAC / CPI",
@@ -3447,7 +3437,7 @@
           "Es el valor de los gastos realizados en un periodo, en el proyecto"
         ],
         "answer": 2,
-        "explanation": "PMBOK: 7.4.2.1 Earned Value Management. La respuesta correcta es: Es el valor de los gastoa realizados en un periodo, en el proyecto"
+        "explanation": "PMBOK: 7.4.2.1 Earned Value Management. La respuesta correcta es: Es el valor de los gastos realizados en un periodo, en el proyecto"
       },
       {
         "question": "¿Qué es el Plan de gestión de costes?",
@@ -3592,7 +3582,7 @@
       {
         "question": "En la elaboración del presupuesto, ¿cuáles son las técnicas más habituales?",
         "options": [
-          "JEstimación por analogía, Estimación paramétrica, Estimación de tres puntos y Análisis de reserva",
+          "Estimación por analogía, Estimación paramétrica, Estimación de tres puntos y Análisis de reserva",
           "Agregación de costes, Análisis de reservas, Juicio de expertos, Relaciones históricas y Conciliación del límite de financiación",
           "Juicio de expertos, Técnicas analíticas y Reuniones"
         ],
@@ -3640,24 +3630,14 @@
         "explanation": "7.4.2.2 Forecasting. La respuesta correcta es: EAC = BAC / CPI"
       },
       {
-        "question": "Con respecto a la técnica de Predicción dentro del Control de Costes, ¿qué es el ETC?",
+        "question": "Con respecto a la técnica de Predicción dentro del Control de Costes, ¿qué es el ETC/EAC?",
         "options": [
           "Es la estimación técnica de costes, con los datos actuales",
           "Es la estimación para la terminación de las actividades del proyecto, con los datos actuales",
           "Es la estimación del presupuesto final del proyecto, con los datos actuales"
         ],
         "answer": 1,
-        "explanation": "7.4.2.2 Forecasting. La respuesta correcta es: Es la estimación para la terminación de las actividades del proyecto, con los datos actuales"
-      },
-      {
-        "question": "Con respecto a la técnica de Predicción dentro del Control de Costes, ¿qué es el EAC?",
-        "options": [
-          "Es la estimación del activo contable del proyecto, con los datos actuales",
-          "Es la estimación de las actividades con coste, con los datos actuales",
-          "Es la estimación de la terminación de las actividades del proyecto, con los datos actuales"
-        ],
-        "answer": 2,
-        "explanation": "7.4.2.2 Forecasting. La respuesta correcta es: Es la estimación de la terminación de las actividades del proyecto, con los datos actuales"
+        "explanation": "7.4.2.2 Forecasting. La respuesta correcta es: Es la estimación para la terminación de las actividades del proyecto, con los datos actuales. OJO: ETC y EAC es lo mismo."
       },
       {
         "question": "Con respecto a la técnica de Gestión del Valor Acumulado dentro del Control de Costes del proyecto, ¿qué es el valor acumulado o ganado (EV)?",
