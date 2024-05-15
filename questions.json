@@ -253,7 +253,7 @@
         "explanation": "1.5.2.1 Métrica V3. La respuesta correcta es: Planeación, desarrollo y mantenimiento de los sistemas de información"
       },
       {
-        "question": "Una reunión para preparar el Sprint, típicamente dividida en dos partes. ¿quién asiste?",
+        "question": "Una reunión para preparar el Sprint, típicamente dividida en dos partes. ¿Quién asiste?",
         "options": [
           "Primera Parte: Dueño de Producto (opcional, pero disponible para aclaraciones), Equipo, ScrumMaster. Segunda Parte: Equipo, ScrumMaster, Dueño de Producto.",
           "Primera Parte: Dueño de Producto, Equipo, ScrumMaster. Segunda Parte: Equipo, ScrumMaster, Dueño de Producto (opcional, pero disponible para aclaraciones).",
@@ -343,7 +343,7 @@
         "explanation": "1.2 Roles y habilidades para la gestión de proyectos. La respuesta correcta es: Selección del cliente"
       },
       {
-        "question": "¿Qué es un proyecto según la norma UNE 157.801?",
+        "question": "¿Qué es un proyecto según la norma UNE-157801?",
         "options": [
           "El proceso que se sigue para construir, entregar y hacer evolucionar el software, desde la concepción de una idea hasta la entrega y el retiro del sistema",
           "Conjunto de actividades coordinadas, presupuestadas, y documentadas con fechas de comienzo y finalización, que se emprende para alcanzar unos objetivos conforme a requisitos específicos, por una organización temporal adaptada a sus necesidades",
@@ -653,7 +653,7 @@
         "explanation": "1.5.2.2.1 Características de RUP. La respuesta correcta es: Una metodología para el desarrollo de proyectos software orientados a objetos que propone un modelo de procesos iterativo e incremental"
       },
       {
-        "question": "Para ayudar en la gestión de los proyectos es necesario el uso de técnicas que permitan diseñar el proyecto con un cierto grado de garantía de éxito. ¿qué técnicas se encuentran entre las más destacadas?",
+        "question": "Para ayudar en la gestión de los proyectos es necesario el uso de técnicas que permitan diseñar el proyecto con un cierto grado de garantía de éxito. ¿Qué técnicas se encuentran entre las más destacadas?",
         "options": [
           "Formación, Competencias, Habilidades y Sociales",
           "Tecnológicas, Transversales y Sistémicas",
@@ -666,7 +666,7 @@
         "question": "¿Qué es un proceso en el entorno de los proyectos informáticos?",
         "options": [
           "Un proceso es un conjunto limitado de actividades que genera elementos de salida que son interesantes y de valor para el usuario",
-          "UN proceso es una actividad de duración especialmente larga",
+          "Un proceso es una actividad de duración especialmente larga",
           "Un proceso es un elemento hardware que ejecuta instrucciones de bajo nivel"
         ],
         "answer": 0,
@@ -725,9 +725,9 @@
       {
         "question": "¿Cómo es una reunión de refinamiento de la Pila del Producto en Scrum?",
         "options": [
-          "Se hacen reuniones con todos los miembros principales de Scrum. Habitualmente,estas reuniones no deben ser más del 10% de la capacidad de desarrollo del equipo para el Sprint",
-          "Se hacen reuniones del Equipo y el Scrum Master. Habitualmente,estas reuniones no deben ser más del 10% de la capacidad de desarrollo del equipo para el Sprint",
-          "Se hacen reuniones del Equipo y el Dueño del Producto. Habitualmente,estas reuniones no deben ser más del 10% de la capacidad de desarrollo del equipo para el Sprint"
+          "Se hacen reuniones con todos los miembros principales de Scrum. Habitualmente, estas reuniones no deben ser más del 10% de la capacidad de desarrollo del equipo para el Sprint",
+          "Se hacen reuniones del Equipo y el Scrum Master. Habitualmente, estas reuniones no deben ser más del 10% de la capacidad de desarrollo del equipo para el Sprint",
+          "Se hacen reuniones del Equipo y el Dueño del Producto. Habitualmente, estas reuniones no deben ser más del 10% de la capacidad de desarrollo del equipo para el Sprint"
         ],
         "answer": 0,
         "explanation": "1.5.2.4.7 Refinamiento de la Pila del Producto. La respuesta correcta es: Se hacen reuniones con todos los miembros principales de Scrum. Habitualmente,estas reuniones no deben ser más del 10% de la capacidad de desarrollo del equipo para el Sprint"
@@ -773,7 +773,7 @@
         "explanation": "1.5.2.4 Scrum. La respuesta correcta es: Scrum es un marco de trabajo iterativo e incremental para el desarrollo de proyectos, productos y aplicaciones"
       },
       {
-        "question": "¿Cuales son las actividades fundamentales de la metodología RUP?",
+        "question": "¿Cuáles son las actividades fundamentales de la metodología RUP?",
         "options": [
           "Iteraciones, ciclos y fases.",
           "Inicio, elaboración, construcción y transición.",
@@ -1258,7 +1258,7 @@
         "explanation": "2.1.1.1 El proceso de la medición y sus características. La respuesta correcta es: No debe interferir en el proceso observado, de lo contrario los resultados obtenidos estarían falseados"
       },
       {
-        "question": "Sea un conjunto formado por ficheros de código, sobre el cual se mide el número de errores, donde existen las relaciones \"más errors que\" y \"menos errores que\" y donde se define la operación \"aglutinar errores de dos o más ficheros\", ¿que forma?",
+        "question": "Sea un conjunto formado por ficheros de código, sobre el cual se mide el número de errores, donde existen las relaciones \"más errores que\" y \"menos errores que\" y donde se define la operación \"aglutinar errores de dos o más ficheros\", ¿que forma?",
         "options": [
           "Un sistema relacional empírico",
           "Ninguno de ambos, porque sólo hay una operación",
@@ -1568,7 +1568,7 @@
         "explanation": "Respuesta correcta: Métricas de estructuras de clases. Estudian las clases y obtienen datos a partir de ellas"
       },
       {
-        "question": "Una de las razones por las cuales las métricas no son usadas más ampliamente en la industria del software es que resulta difícil en la práctica obtener datos adecuados Idealmente, ¿cómo deberían ser los valores de las métricas?",
+        "question": "Una de las razones por las cuales las métricas no son usadas más ampliamente en la industria del software es que resulta difícil en la práctica obtener datos adecuados. Idealmente, ¿cómo deberían ser los valores de las métricas?",
         "options": [
           "Repetibles, comparables y verificados",
           "Prescriptores, predictores y comparadores",
@@ -1758,7 +1758,7 @@
         "explanation": "Respuesta correcta: CoCoMo"
       },
       {
-        "question": "Kitchenham y McDermid (Kitchenham, y otros, 1986) sugirieron que la recolección de datos para tener éxito debe cumplir algunos requisitos. ¿cuál de los siguientes es uno de ellos?",
+        "question": "Kitchenham y McDermid (Kitchenham, y otros, 1986) sugirieron que la recolección de datos para tener éxito debe cumplir algunos requisitos. ¿Cuál de los siguientes es uno de ellos?",
         "options": [
           "La recolección de datos debe estar automatizada siempre",
           "Los datos que no pueden ser recogidos automáticamente carecen de interés",
@@ -1817,7 +1817,7 @@
         "options": [
           "Son del tipo \"pertenece a\" para determinar qué productos forman parte de otros más complejos",
           "Son del tipo \"está compuesto de\" cuando se va de la raíz a las hojas y del tipo \"forma parte de\" cuando se va hacia la raíz",
-          "Son del tipo \"Será realizado por\" para determinar qué trabajos realizarán qué personas en el proyecto"
+          "Son del tipo \"será realizado por\" para determinar qué trabajos realizarán qué personas en el proyecto"
         ],
         "answer": 1,
         "explanation": "(Sanchís Marco, 1998), 4. Formalización de Proyectos Informáticos, (4.1.1 WBS). La respuesta correcta es: Son del tipo \"está compuesto de\" cuando se va de la raíz a las hojas y del tipo \"forma parte de\" cuando se va hacia la raíz"
@@ -1923,7 +1923,7 @@
         "explanation": "3.7.1 Técnicas. La respuesta correcta es: Este tipo de estimación usa brainstormings o técnicas Delphi entre un grupo de expertos, para hacer la estimación"
       },
       {
-        "question": "¿Cuál de las siguientes es un lista de atributos de una actividad?",
+        "question": "¿Cuál de las siguientes es una lista de atributos de una actividad?",
         "options": [
           "Tipo, Clase, Aspecto y Evaluación",
           "Nombre, Dirección y Código",
@@ -2055,7 +2055,7 @@
       {
         "question": "¿Cuál es la organización funcional clásica de una empresa?",
         "options": [
-          "Es un modelo en que cada empleado realiza una sola función en un proyecto",
+          "Es un modelo en el que cada empleado realiza una sola función en un proyecto",
           "Es una jerarquía en la que cada empleado tiene un superior claro",
           "Es una organización en base a departamentos funcionales"
         ],
@@ -2380,7 +2380,7 @@
       {
         "question": "¿Cuáles de los siguientes son objetivos destacables del desarrollo del equipo de proyecto?",
         "options": [
-          "Mejorar la calidad final del producto mediante técnias de desinformación que mantengas a los miembros del equipo alerta a los cambios",
+          "Mejorar la calidad final del producto mediante técnias de desinformación que mantengan a los miembros del equipo alerta a los cambios",
           "Hacer del equipo un sistema cohesivo eliminando las disensiones mediante la eliminación de los miembros conflictivos",
           "Mejorar el conocimiento y las habilidades de los miembros, mejorar el clima de confianza y crear una cultura de equipo dinámica, cohesiva y colaborativa"
         ],
@@ -2398,7 +2398,7 @@
         "explanation": "4.3.2 Dependencia de los miembros del equipo. La respuesta correcta es: Se basa en el equilibrio entre la colaboración necesaria entre los grupos y las personas que colaboran en un proyecto y la independencia de los grupos para hacer su trabajo"
       },
       {
-        "question": "¿Cuál de los siguientes es uno de los producto del desarrollo del equipo de proyecto?",
+        "question": "¿Cuál de los siguientes es uno de los productos del desarrollo del equipo de proyecto?",
         "options": [
           "Plan de gestión de recursos humanos",
           "Las evaluaciones del desempeño del equipo",
@@ -2418,7 +2418,7 @@
         "explanation": "4.3.1 Ámbitos de aportación de RH. La respuesta correcta es: Personas que se incorporan de la misma unidad organizativa para la ejecución de ese proyecto, pero que al finalizar éste continúan a disposición del Jefe de la Unidad"
       },
       {
-        "question": "Dentro de las técnicas para el gestión del equipo de proyecto, ¿en qué consiste la de \"Resolución de conflictos\"?",
+        "question": "Dentro de las técnicas para la gestión del equipo de proyecto, ¿en qué consiste la de \"Resolución de conflictos\"?",
         "options": [
           "Es el proceso realizado por el jefe de proyecto para imponer su criterio si no hay acuerdos",
           "Busca mayor productividad y unas relaciones de trabajo más positivas y productivas",
@@ -2438,7 +2438,7 @@
         "explanation": "4.3.2 Dependencia de los miembros del equipo. La respuesta correcta es: Aislamiento, interdependencia y cooperación"
       },
       {
-        "question": "Dentro de las técnicas para el gestión del equipo de proyecto, ¿en qué consiste la de \"Evaluaciones del desempeño del proyecto\"?",
+        "question": "Dentro de las técnicas para la gestión del equipo de proyecto, ¿en qué consiste la de \"Evaluaciones del desempeño del proyecto\"?",
         "options": [
           "Tiene entre otros objetivos el descubrimiento de problemas desconocidos o no resueltos",
           "Es la evaluación de los conocimientos de cada miembros del equipo de proyecto",
@@ -2657,7 +2657,7 @@
         "explanation": "4.2 Plan de gestión de recursos humanos. La respuesta correcta es: OBS"
       },
       {
-        "question": "Las salidas de la gestión del equipo de proyecto consisten principalmente en actualizaciones de los documentos que sirven para la gestión de recursos humanos del proyecto. ¿cuál de los siguientes elementos se actualiza?",
+        "question": "Las salidas de la gestión del equipo de proyecto consisten principalmente en actualizaciones de los documentos que sirven para la gestión de recursos humanos del proyecto. ¿Cuál de los siguientes elementos se actualiza?",
         "options": [
           "Evaluaciones del desempeño del equipo",
           "Las normas básicas",
@@ -2789,7 +2789,7 @@
       {
         "question": "Dentro de los ámbitos principales de aportación de RRHH al proyecto, ¿qué es la transferencia de personas de otros departamentos?",
         "options": [
-          "Cuando el personal necesario se busca en otros departamento o en otros proyectos",
+          "Cuando el personal necesario se busca en otros departamentos o en otros proyectos",
           "Se produce cuando las personas cambian el perfil tecnológico con el que trabajan en el proyecto",
           "Se produce cuando se hace reestructuración de puestos de trabajo y las personas se transfieren a otros departamentos"
         ],
@@ -2916,7 +2916,7 @@
         "explanation": "4.2.2 Productos del plan de gestión de recursos humanos. La respuesta correcta es: Lista de roles y responsabilidades"
       },
       {
-        "question": "Dentro de las técnicas para el gestión del equipo de proyecto, ¿en qué consiste la de \"Observación y Conversación\"?",
+        "question": "Dentro de las técnicas para la gestión del equipo de proyecto, ¿en qué consiste la de \"Observación y Conversación\"?",
         "options": [
           "Es una técnica basada en la observación de las variables del entorno y la discusión de dichas variables para buscar la mejor solución a los problemas",
           "Es una técnica que consiste en poner algunas personas entre los miembros del equipo que observan el trabajos de los demás y los ayudan en caso de problemas",
@@ -3035,7 +3035,7 @@
         "explanation": "4.4.1 Técnicas. La respuesta correcta es: La formación incluye todas las actividades destinadas a mejorar las competencias técnicas de los miembros del equipo"
       },
       {
-        "question": "Dentro de las técnicas para el gestión del equipo de proyecto, ¿en qué consiste la de \"Habilidades Interpersonales\"?",
+        "question": "Dentro de las técnicas para la gestión del equipo de proyecto, ¿en qué consiste la de \"Habilidades Interpersonales\"?",
         "options": [
           "Son técnicas de evaluación de terceros sobre las habilidades de cada miembro de equipo",
           "Son técnicas para analizar las situaciones de conflicto e interactuar adecuadamente con los miembros del equipo",
@@ -4156,7 +4156,7 @@
       {
         "question": "En el contexto de las técnicas de Resolución de proyectos, ¿en es la Aproximación de desgin-to-cost?",
         "options": [
-          "%En replantearse el objetivo del proyecto para determinar si el asumir el riesgo es productivo frente a otras opciones",
+          "En replantearse el objetivo del proyecto para determinar si el asumir el riesgo es productivo frente a otras opciones",
           "Es una técnica de valoración de un desarrollo o una innovación",
           "En definir escenarios y se valorar estos escenarios"
         ],
@@ -4699,7 +4699,7 @@
         "explanation": "7.2 Evolución de la gestión de la calidad. La respuesta correcta es: Detección de defectos"
       },
       {
-        "question": "¿Qué parámetros que determinan la adecuación al uso?",
+        "question": "¿Qué parámetros determinan la adecuación al uso?",
         "options": [
           "Prevención, Detección y Corrección",
           "Calidad Necesaria, Calidad Programada, y Calidad Realizada",
@@ -4711,7 +4711,7 @@
       {
         "question": "Dentro de los parámetros que determinan la adecuación al uso, ¿qué es la Disponibilidad?",
         "options": [
-          "%Es la parte de la calidad que asegura que el producto diseñado satisfaga las necesidades del usuario",
+          "Es la parte de la calidad que asegura que el producto diseñado satisfaga las necesidades del usuario",
           "Es un aspecto de la calidad tiene que ver con el desempeño y la vida útil del producto",
           "Es un concepto de calidad basado en el producto o servicio cuyo objetivo es cumplir un conjunto de características medibles establecidas por el fabricante para satisfacer al cliente"
         ],
@@ -4799,7 +4799,7 @@
         "explanation": "7.1.1 Calidad desde el punto de vista del receptor. La respuesta correcta es: Lo que se ha especificado hacer"
       },
       {
-        "question": "¿que es la Calidad Necesaria?",
+        "question": "¿Qué es la Calidad Necesaria?",
         "options": [
           "Lo que se ha hecho realmente",
           "Lo que se ha especificado hacer",
@@ -4949,7 +4949,7 @@
         "explanation": "7.4.3 Control de calidad. La respuesta correcta es: Evitar que haya errores en el proceso"
       },
       {
-        "question": "En la ingeniería del software se deben seguir prácticas adecuadas de ingeniería para controlar los errores durante el desarrollo. Estas prácticas se clasifican en dos tipos de actividaes, ¿cuáles?",
+        "question": "En la ingeniería del software se deben seguir prácticas adecuadas de ingeniería para controlar los errores durante el desarrollo. Estas prácticas se clasifican en dos tipos de actividades, ¿cuáles?",
         "options": [
           "Detección y corrección",
           "Proyecto y Proceso",
@@ -5110,7 +5110,7 @@
       {
         "question": "La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación. Dentro del nivel de software, ¿qué elementos se definen en los modelos clásicos?",
         "options": [
-          "%Modelos y Estándares",
+          "Modelos y Estándares",
           "Entidades y Proyectos",
           "Factores, criterios y métricas"
         ],
@@ -5147,7 +5147,7 @@
         "explanation": "7.2 Evolución de la gestión de la calidad. La respuesta correcta es: Integración de todos los procesos"
       },
       {
-        "question": "¿En qué consiste el Controld e calidad?",
+        "question": "¿En qué consiste el Control de calidad?",
         "options": [
           "Es el proceso por el que se evalúan los resultados de la ejecución de actividades de calidad, a fin de evaluar el desempeño y recomendar cambios necesarios",
           "Es el proceso por el que se monitorizan y registran los resultados de la ejecución de actividades de calidad, a fin de evaluar el desempeño y recomendar cambios necesarios",
@@ -5155,16 +5155,6 @@
         ],
         "answer": 1,
         "explanation": "7.4.3 Control de calidad. La respuesta correcta es: Es el proceso por el que se monitorizan y registran los resultados de la ejecución de actividades de calidad, a fin de evaluar el desempeño y recomendar cambios necesarios"
-      },
-      {
-        "question": "¿Qué es la Calidad Necesaria?",
-        "options": [
-          "Lo que quiere el cliente",
-          "Lo que se ha hecho realmente",
-          "Lo que se ha especificado hacer"
-        ],
-        "answer": 0,
-        "explanation": "Respuesta correcta: Lo que quiere el cliente"
       }
     ]
   },
@@ -5185,7 +5175,7 @@
         "question": "Dentro de las técnicas de búsqueda de aspectos legales y normativos, ¿en qué consiste la Mejora de procesos?",
         "options": [
           "Consiste en generar o identificar normativa para la organización que mejore los procesos en los proyectos, a partir del proyecto actual",
-          "Consiste enmejorar los procesos del proyecto usando las normas adecuadas",
+          "Consiste en mejorar los procesos del proyecto usando las normas adecuadas",
           "Consiste en mejorar las normas que se van a aplicar a un proyecto si tienen defectos o no se adaptan"
         ],
         "answer": 0,
@@ -5233,16 +5223,6 @@
         "explanation": "8.2 Planificar la Gestión de las Comunicaciones. La respuesta correcta es: Es el proceso para definir los canales y procesos de comunicación relacionados con el proyecto"
       },
       {
-        "question": "La Sensibilidad y confidencialidad de la información es un factor que, ¿en qué técnica influye?",
-        "options": [
-          "Tecnología de comunicación",
-          "Modelos de comunicación",
-          "Métodos de comunicación"
-        ],
-        "answer": 0,
-        "explanation": "8.2.1 Técnicas/Tecnología de comunicación. La respuesta correcta es: Tecnología de comunicación"
-      },
-      {
         "question": "¿Cuales de las siguientes son técnicas para la planificación de la Gestión de las Comunicaciones?",
         "options": [
           "Los Sistemas de Gestión de Información y el Juicio de expertos",
@@ -5255,9 +5235,9 @@
       {
         "question": "¿En qué consiste el Control de la Comunicaciones?",
         "options": [
-          "es el proceso de definir los requisitos de la información del proyecto de acuerdo a la planificación de la gestión de las comunicaciones",
-          "es el proceso de crear, recoger, distribuir, guardar y mantener la información del proyecto de acuerdo a la planificación de la gestión de las comunicaciones",
-          "El Control de las Comunicaciones es el proceso de seguimiento y control de las comunicaciones a través de todo el ciclo de vida del proyecto para garantizar las necesidades de información de los interesados en el proyecto se cumplen"
+          "Es el proceso de definir los requisitos de la información del proyecto de acuerdo a la planificación de la gestión de las comunicaciones",
+          "Es el proceso de crear, recoger, distribuir, guardar y mantener la información del proyecto de acuerdo a la planificación de la gestión de las comunicaciones",
+          "Es el proceso de seguimiento y control de las comunicaciones a través de todo el ciclo de vida del proyecto para garantizar que las necesidades de información de los interesados en el proyecto se cumplen"
         ],
         "answer": 2,
         "explanation": "8.4 Controlar las comunicaciones. La respuesta correcta es: El Control de las Comunicaciones es el proceso de seguimiento y control de las comunicaciones a través de todo el ciclo de vida del proyecto para garantizar las necesidades de información de los interesados en el proyecto se cumplen"
@@ -5373,7 +5353,7 @@
         "explanation": "8.2.2 Salidas. La respuesta correcta es: La persona responsable de comunicar la información"
       },
       {
-        "question": "Un informe de progreso para el cliente, ¿que tipo de comunciación sería?",
+        "question": "Un informe de progreso para el cliente, ¿que tipo de comunicación sería?",
         "options": [
           "Escrita e informal",
           "Formal y externa",
@@ -5427,13 +5407,13 @@
         "options": [
           "En determinar los métodos que se usen para realizar la comunicación",
           "En determinar los requisitos de comunicación necesaria y el valor de esa información",
-          "En determinar el número de canales que van a usar la comunciación"
+          "En determinar el número de canales que van a usar la comunicación"
         ],
         "answer": 1,
         "explanation": "8.2.1 Técnicas/Análisis de los requisitos de comunicación. La respuesta correcta es: En determinar los requisitos de comunicación necesaria y el valor de esa información"
       },
       {
-        "question": "Un email del Jefe de Proyecto comunicando que se va a disponer de licencias de un producto, ¿que tipo de comunciación sería?",
+        "question": "Un email del Jefe de Proyecto comunicando que se va a disponer de licencias de un producto, ¿que tipo de comunicación sería?",
         "options": [
           "Vertical e informal",
           "Escrita y horizontal",
@@ -5446,7 +5426,7 @@
         "question": "Dentro de las técnicas de gestión de las Comuncaciones, ¿qué sistemas se usarán para la comunicación?",
         "options": [
           "Comunicación escrita, vertical, formal y oficial",
-          "Lo sinformes de desempeño",
+          "Los informes de desempeño",
           "Copias en papel, gestión de documentos electrónicos y Herramientas electrónicas de gestión de proyectos"
         ],
         "answer": 2,
@@ -5457,7 +5437,7 @@
         "options": [
           "La codificación y decodificación del mensaje",
           "La transmisión y aceptación del mensaje",
-          "La Urgencia de la información requerida y la Facilidad de uso"
+          "La urgencia de la información requerida y la facilidad de uso"
         ],
         "answer": 2,
         "explanation": "8.2.1 Técnicas/Tecnología de comunicación. La respuesta correcta es: La Urgencia de la información requerida y la Facilidad de uso"
@@ -5466,8 +5446,8 @@
         "question": "Dentro de las técnicas de búsqueda de aspectos legales y normativos, ¿en qué consiste el uso de Herramientas?",
         "options": [
           "Consiste en generar normas adaptadas al proyecto usando herramientas",
-          "Consiste en buscar normas a través de herramientas de búsqueda especilizada",
-          "Consiste en usar herramientas para nos ayuden a implantar las normas"
+          "Consiste en buscar normas a través de herramientas de búsqueda especializada",
+          "Consiste en usar herramientas para que nos ayuden a implantar las normas"
         ],
         "answer": 1,
         "explanation": "8.5.4.1 Técnicas de búsqueda / Herramientas. La respuesta correcta es: Consiste en buscar normas a través de herramientas de búsqueda especilizada"
@@ -5523,7 +5503,7 @@
         "explanation": "8.2.2 Salidas. La respuesta correcta es: Los métodos o tecnologías utilizados para transmitir la información"
       },
       {
-        "question": "Publicar algunos resultados del proyecto para información del cliente, ¿que tipo de comunciación sería?",
+        "question": "Publicar algunos resultados del proyecto para información del cliente, ¿qué tipo de comunicación sería?",
         "options": [
           "Vertical e informal",
           "Externa y formal",
@@ -5563,7 +5543,7 @@
         "explanation": "10.3 Requisitos para la documentación del proyecto. La respuesta correcta es: No, pero hay que justificar los que no aparezcan"
       },
       {
-        "question": "¿Qué proceso es importante hacer a la hora de planear un proyecto para evitar compliaciones legales futuras?",
+        "question": "¿Qué proceso es importante hacer a la hora de planear un proyecto para evitar complicaciones legales futuras?",
         "options": [
           "Hacer estudios con entidad propia para saber si nos afecta alguna ley",
           "Identificar la legislación, la normativa, las patentes y los derechos de autor que puedan condicionar el diseño del proyecto",
@@ -5573,14 +5553,14 @@
         "explanation": "8.5.4 Las normas en los proyectos. La respuesta correcta es: Identificar la legislación, la normativa, las patentes y los derechos de autor que puedan condicionar el diseño del proyecto"
       },
       {
-        "question": "Dentro de la Planificación de la gestión de las comunicaciones, en la técnica para definir los métodos de comunicación, ¿cómo pueden clasificarse los fiferentes métodos de comunicación?",
+        "question": "Dentro de la Planificación de la gestión de las comunicaciones, en la técnica para definir los métodos de comunicación, ¿cómo pueden clasificarse los diferentes métodos de comunicación?",
         "options": [
           "Interna y externa, formar e informal, vertical y horizontal, oficial y extraoficial y escrita y oral",
-          "Interactiva, pusk y pull",
+          "Interactiva, push y pull",
           "Codificación, Transmisión, Decodificación, Aceptación y Respuesta"
         ],
         "answer": 1,
-        "explanation": "8.2.1 Técnicas/Métodos de comunicación. La respuesta correcta es: Interactiva, pusk y pull"
+        "explanation": "8.2.1 Técnicas/Métodos de comunicación. La respuesta correcta es: Interactiva, push y pull"
       },
       {
         "question": "ISO es una entidad de normalización...",
@@ -5634,7 +5614,7 @@
         "explanation": "10.1 Introducción. La respuesta correcta es: Los relacionados con las etapas de definición, construcción, pruebas, implantación y puesta en servicio"
       },
       {
-        "question": "Pedir explicaciones por una decisión de un miembro del equipo por parte del jefe de proyecto, ¿que tipo de comunciación sería?",
+        "question": "Pedir explicaciones por una decisión de un miembro del equipo por parte del jefe de proyecto, ¿que tipo de comunicación sería?",
         "options": [
           "Formal y oficial",
           "Vertical y extraoficial",
@@ -5656,12 +5636,12 @@
       {
         "question": "¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones?",
         "options": [
-          "El Glosario de terminología común",
+          "El glosario de terminología común",
           "La lista de distribución de documentos",
-          "La provisión de aceso a los repositorios"
+          "La provisión de acceso a los repositorios"
         ],
         "answer": 0,
-        "explanation": "8.2.2 Salidas. La respuesta correcta es: El Glosario de terminología común"
+        "explanation": "8.2.2 Salidas. La respuesta correcta es: El glosario de terminología común"
       },
       {
         "question": "¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones?",
@@ -5696,9 +5676,9 @@
       {
         "question": "¿Cuáles de los siguientes criterios formarán parte del Plan de Gestión de las comunicaciones?",
         "options": [
-          "La adaptación de las medidas de seguridad por acceos no permitidos",
+          "La adaptación de las medidas de seguridad por accesos no permitidos",
           "Las restricciones en materia de comunicación",
-          "Las pérdidas de información por denegaciópn de servicio"
+          "Las pérdidas de información por denegación de servicio"
         ],
         "answer": 1,
         "explanation": "8.2.2 Salidas. La respuesta correcta es: Las restricciones en materia de comunicación"
@@ -5755,34 +5735,15 @@
         "explanation": "Respuesta correcta: Es información que se envía a los receptores sin posibilidad de contestación, por ejemplo informes, faxes, blogs, etc."
       },
       {
-        "question": "¿En qué fase se elabora documentación usando la Norma UNE157801?",
-        "options": [
-          "En la fase previa al propio desarrollo del proyecto",
-          "En la fase de mantenimiento del proyecto",
-          "En la fase de desarrollo del proyecto"
-        ],
-        "answer": 0,
-        "explanation": "Respuesta correcta: En la fase previa al propio desarrollo del proyecto"
-      },
-      {
-        "question": "Publicar algunos resultados del proyecto para información del cliente, ¿qué tipo de comunciación sería?",
-        "options": [
-          "Escrita y extraoficial",
-          "Vertical e informal",
-          "Externa y formal"
-        ],
-        "answer": 2,
-        "explanation": "Respuesta correcta: Externa y formal"
-      },
-      {
         "question": "OMG es una entidad de normalización...",
         "options": [
-          "...de ámbito internacional y multisectorial.",
-          "...de ámbito internacional y sectorial.",
-          "...de ámbito nacional y sectorial."
+          "...de ámbito internacional y multisectorial",
+          "...de ámbito nacional y multisectorial",
+          "...de ámbito internacional y sectorial",
+          "...de ámbito nacional y sectorial"
         ],
         "answer": 1,
-        "explanation": "Respuesta correcta: ...de ámbito internacional y sectorial."
+        "explanation": "Respuesta correcta: ...de ámbito internacional y sectorial"
       }
     ]
   },
@@ -5890,7 +5851,7 @@
         "explanation": "(Furtel y otros, 2002), 25. Project Tracking and Control / Earned Value Management. La respuesta correcta es: Coste real del trabajo realizado"
       },
       {
-        "question": "Según Furtel (Furtel y otros, 2005) , ¿cuáles son los elementos básicos del control del alcance?",
+        "question": "Según Furtel (Furtel y otros, 2005), ¿cuáles son los elementos básicos del control del alcance?",
         "options": [
           "Un formato de identificación y nomenclatura, un proceso de gestión de cambios, una manera de informar del estado de las variables del proceso y un sistema de auditoría o revisión periódica",
           "Un formato de identificación y nomenclatura, un proceso de gestión de costes, una manera de informar del estado de avance del proyecto y un sistema de auditoría o revisión periódica",
@@ -6280,7 +6241,7 @@
         "explanation": "9.4 Control de plazos. La respuesta correcta es: Son reuniones con el objetivo de definir el estado actual de avance del proyecto, los riesgos futuros y las posibles decisiones a tomar para maximizar los beneficios del proyecto"
       },
       {
-        "question": "El seguimiento y control de un proyecto es un conjunto de actividades que pretenden conseguir que el proyecto se ajuste a los planes establecidos a priori y que consiga los objetivos que para él se hayan determinado. ¿cuáles son estos objetivos?",
+        "question": "El seguimiento y control de un proyecto es un conjunto de actividades que pretenden conseguir que el proyecto se ajuste a los planes establecidos a priori y que consiga los objetivos que para él se hayan determinado. ¿Cuáles son estos objetivos?",
         "options": [
           "Mejora continua, financiación, cumplimiento y mantenimiento",
           "Alcance, coste, plazo y calidad",
