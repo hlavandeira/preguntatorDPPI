@@ -3453,7 +3453,7 @@
         "question": "Dentro de las técnicas usadas para el Control de Costes del proyecto, ¿en qué consiste el Índice de rendimiento a completar?",
         "options": [
           "Es una medida de la ejecución requerida de los costes para lograr, con los recursos restantes, cumplir con una meta de gestión específica",
-          "Es una técnica consistente en el desarrollo de pronósticos para el estimación a la conclusión en base a la información actua",
+          "Es una técnica consistente en el desarrollo de pronósticos para el estimación a la conclusión en base a la información actual",
           "Es una técnica de cálculo del rendimiento de las tareas realizadas hasta el momento en términos de coste/beneficio"
         ],
         "answer": 0,
@@ -3474,7 +3474,7 @@
         "options": [
           "Definir los puntos en el WBS en la que se realiza la medición, establecer las técnicas de medición del valor acumulado y establecer las metodologías de seguimiento",
           "En definir las reglas básicas de entendimiento con respecto a los miembros de equipo de proyecto",
-          "Establecer las umbrales, la precisión y la exactitud"
+          "Establecer los umbrales, la precisión y la exactitud"
         ],
         "answer": 0,
         "explanation": "PMBOK: 7.1.3.1 Cost Management Plan. La respuesta correcta es: Definir los puntos en el WBS en la que se realiza la medición, establecer las técnicas de medición del valor acumulado y establecer las metodologías de seguimiento"
@@ -3614,7 +3614,7 @@
         "options": [
           "Es el proceso de desarrollar una aproximación de los recursos monetarios necesarios para completar las actividades del proyecto",
           "Es el proceso de agregación de los costes estimados de las actividades individuales o los paquetes de trabajo para establecer una línea base",
-          "Consiste en estimas las tareas de desarrollo de software y calcular sus costes"
+          "Consiste en estimar las tareas de desarrollo de software y calcular sus costes"
         ],
         "answer": 0,
         "explanation": "5.2 Estimación de costes. La respuesta correcta es: Es el proceso de desarrollar una aproximación de los recursos monetarios necesarios para completar las actividades del proyecto"
@@ -3844,16 +3844,6 @@
         "explanation": "6.6.1 Planificar la Gestión de Riesgos (Definiciones de probabilidad e impacto). La respuesta correcta es: La escala de valores de impacto suele ser logarítmica"
       },
       {
-        "question": "¿Cuál de las siguientes es la definición que mejor se adapta a lo que se expone en la asignatura?",
-        "options": [
-          "Un riesgo es cualquier suceso que pueda afectar negativamente a la marcha del proyecto en el futuro (RAE)",
-          "Un valor compuesto, resultante de la multiplicación de la probabilidad de ocurrencia de un evento por la pérdida que la misma implica (BOEHM)",
-          "Un riesgo es un evento o condición incierta que, si sucede, tiene un efecto positivo o negativo en por lo menos uno de los objetivos del proyecto, tales como el alcance, el cronograma, el coste y la calidad (PMBOK)"
-        ],
-        "answer": 2,
-        "explanation": "6.1 Introducción y Definición de Riesgo. La respuesta correcta es: Un riesgo es un evento o condición incierta que, si sucede, tiene un efecto positivo o negativo en por lo menos uno de los objetivos del proyecto, tales como el alcance, el cronograma, el coste y la calidad (PMBOK)"
-      },
-      {
         "question": "En el contexto de las técnicas de Resolución de proyectos, ¿en qué consisten las Simulaciones?",
         "options": [
           "En hacer valoraciones de elementos relacionados con las fuentes de riesgo",
@@ -3974,7 +3964,7 @@
         "explanation": "6.6.1 Planificar la Gestión de Riesgos (Definiciones de probabilidad e impacto). La respuesta correcta es: Es el valor porcentual del posible daño que el riesgo puede causar a un objetivo del proyecto"
       },
       {
-        "question": "Una vez terminada la identificación, ¿qué atributos se deberás obtener de cada riesgo?",
+        "question": "Una vez terminada la identificación, ¿qué atributos se deberán obtener de cada riesgo?",
         "options": [
           "Gestión del riesgo, Plan de contingencia y Valoración económica",
           "Probabilidad, Impacto y Alcance",
@@ -4057,7 +4047,7 @@
         "question": "Dentro de las técnicas de Identificación de riesgos, ¿cuáles son las técnicas de Recopilación de Información mas habituales?",
         "options": [
           "Tormenta de ideas, Análisis del valor ganado, Delphi y Entrevistas",
-          "Análisis del valor ganado, Delphi,Análisis SWOT y Análisis causal",
+          "Análisis del valor ganado, Delphi, Análisis SWOT y Análisis causal",
           "Tormentas de ideas, Delphi, Entrevistas y Análisis causal"
         ],
         "answer": 2,
@@ -4114,11 +4104,11 @@
         "explanation": "6.6.3.1 Técnicas. La respuesta correcta es: Evaluación de la Probabilidad e Impacto de los riesgos, Categorización de Riesgos y Evaluación de la Urgencia de los Riesgos"
       },
       {
-        "question": "En el contexto de las técnicas de Resolución de proyectos, ¿en es la Aproximación de desgin-to-cost?",
+        "question": "En el contexto de las técnicas de Resolución de proyectos, ¿qué es la Aproximación de desgin-to-cost?",
         "options": [
           "En replantearse el objetivo del proyecto para determinar si el asumir el riesgo es productivo frente a otras opciones",
           "Es una técnica de valoración de un desarrollo o una innovación",
-          "En definir escenarios y se valorar estos escenarios"
+          "En definir escenarios y se valoran estos escenarios"
         ],
         "answer": 1,
         "explanation": "6.6.6.1 Técnicas (Aproximación de desgin-to-cost). La respuesta correcta es: Es una técnica de valoración de un desarrollo o una innovación"
@@ -4207,18 +4197,18 @@
         "question": "En el PMBOK se definen dos fases de análisis, ¿cuáles?",
         "options": [
           "Análisis de costes de riesgos y análisis de beneficios",
-          "Análisis cualitativo y análisis cuentitativo",
+          "Análisis cualitativo y análisis cuantitativo",
           "Análisis proactivo y análisis reactivo"
         ],
         "answer": 1,
-        "explanation": "6.6.3 Análisis de Riesgos. La respuesta correcta es: Análisis cualitativo y análisis cuentitativo"
+        "explanation": "6.6.3 Análisis de Riesgos. La respuesta correcta es: Análisis cualitativo y análisis cuantitativo"
       },
       {
         "question": "¿En qué consiste la Resolución de Riesgos?",
         "options": [
           "Consiste en resolver los problemas ocasionados por los riesgos durante la fase de Desarrollo del proyecto",
           "Consiste en determinar si los riesgos son eliminados o resueltos siguiendo los planes definidos en las fases anteriores de la Gestión de Riesgos",
-          "COnsiste en tratar los riesgos con políticas optimistas y resultas de manera que se tenga una actitud proactiva"
+          "Consiste en tratar los riesgos con políticas optimistas y resultas de manera que se tenga una actitud proactiva"
         ],
         "answer": 1,
         "explanation": "6.6.6 Resolución de Riesgos. La respuesta correcta es: Consiste en determinar si los riesgos son eliminados o resueltos siguiendo los planes definidos en las fases anteriores de la Gestión de Riesgos"
@@ -4244,7 +4234,7 @@
         "explanation": "La respuesta correcta es: De proyecto, del producto y del negocio"
       },
       {
-        "question": "¿Qué son las estrategia proactivas?",
+        "question": "¿Qué son las estrategias proactivas?",
         "options": [
           "Aquellas que no precisan de planes de contingencia",
           "Aquellas que previamente evalúan todos los riesgos inherentes al proyecto",
@@ -4308,7 +4298,7 @@
         "options": [
           "Gestión del riesgo, Plan de Contingencia del riesgo y Valoración económica",
           "Definición de las políticas de riesgo para el proyecto",
-          "Define los roles y responsabilidades de la gestionad de riesgos"
+          "Define los roles y responsabilidades de la gestión de riesgos"
         ],
         "answer": 0,
         "explanation": "6.6.5.2 Salidas. La respuesta correcta es: Gestión del riesgo, Plan de Contingencia del riesgo y Valoración económica"
@@ -4366,12 +4356,12 @@
       {
         "question": "Dentro de las técnicas de Identificación de riesgos, hablando del análisis SWOT, ¿cuál es el procedimiento?",
         "options": [
-          "(1)Identificar las fortalezas y las oportunidades. (2) Identificar las amenazas y debilidades. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades",
-          "(1)Identificar las amenazas y las debilidades. (2) Identificar las oportunidades y fortalezas. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades",
-          "(1)Identificar las fortalezas y debilidades de la organización (proyecto). (2) Identificar oportunidades y amenazas. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades"
+          "(1) Identificar las fortalezas y las oportunidades. (2) Identificar las amenazas y debilidades. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades",
+          "(1) Identificar las amenazas y las debilidades. (2) Identificar las oportunidades y fortalezas. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades",
+          "(1) Identificar las fortalezas y debilidades de la organización (proyecto). (2) Identificar oportunidades y amenazas. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades"
         ],
         "answer": 2,
-        "explanation": "6.6.2.1 Técnicas (Análisis SWOT). La respuesta correcta es: (1)Identificar las fortalezas y debilidades de la organización (proyecto). (2) Identificar oportunidades y amenazas. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades"
+        "explanation": "6.6.2.1 Técnicas (Análisis SWOT). La respuesta correcta es: (1) Identificar las fortalezas y debilidades de la organización (proyecto). (2) Identificar oportunidades y amenazas. (3) Estudiar en qué manera las fortalezas corrigen las amenazas y en qué manera las oportunidades permiten superar las debilidades"
       },
       {
         "question": "¿Cuáles son las técnicas habituales para la Monitorización de Riesgos?",
@@ -4388,7 +4378,7 @@
         "options": [
           "En función del apetito, la tolerancia y el umbral de riesgo",
           "En función de normativa que define los valores y rangos de la matriz",
-          "En función de las estrategias proactivas frene al riesgo"
+          "En función de las estrategias proactivas frente al riesgo"
         ],
         "answer": 0,
         "explanation": "6.6.1 Planificar la Gestión de Riesgos (Matriz de probabilidad e impacto). Esta matriz es un reflejo de las políticas y actitudes de la organización frente al riesgo. La respuesta correcta es: En función del apetito, la tolerancia y el umbral de riesgo"
@@ -4396,7 +4386,7 @@
       {
         "question": "En el contexto de las técnicas de Monitorización de Riesgos, ¿en qué consisten las Auditorías de los Riesgos?",
         "options": [
-          "En realizar revisiones a través de una lista de comprobación del proceso realizar en la gestión de riesgos",
+          "En realizar revisiones a través de una lista de comprobación del proceso a realizar en la gestión de riesgos",
           "En contratar auditorías externas del proyecto que deben incluir a las actividades de gestión de riesgos",
           "En examinar y documentar la efectividad de las respuestas a los riesgos y la del propio proceso de gestión de riesgos"
         ],
@@ -4414,7 +4404,7 @@
         "explanation": "6.6.2.1 Técnicas (Análisis SWOT). La respuesta correcta es: En examinar el proyecto desde el punto de vista de las Debilidades, Amenazas, Fortalezas y Oportunidades"
       },
       {
-        "question": "En el contexto de las técnicas de Resolución de proyectos, ¿en qué consiste las Encuestas?",
+        "question": "En el contexto de las técnicas de Resolución de proyectos, ¿en qué consisten las Encuestas?",
         "options": [
           "En la valoración de un desarrollo o una innovación",
           "En obtener información de interesados y determinar la viabilidad de ciertas actividades que son causa de riesgo",
@@ -4517,7 +4507,7 @@
         "question": "Dentro de las técnicas usadas en el Análisis de Riesgos, ¿cómo se hace la Evaluación del impacto?",
         "options": [
           "Se hace de acuerdo a una escala de rangos que se definen en la matriz de probabilidad e impacto",
-          "Se hace de acuerdo a una escala de rangos que se definen en la tabal de categorías",
+          "Se hace de acuerdo a una escala de rangos que se definen en la tabla de categorías",
           "Se hace de acuerdo a una escala de rangos que se define en la tabla de escalas de impacto"
         ],
         "answer": 2,
@@ -4577,7 +4567,7 @@
         "question": "Dentro de las técnicas de Identificación de riesgos y dentro de las técnicas de Recopilación de Información, ¿qué elementos pueden usarse para dirigir el trabajo?",
         "options": [
           "La tabla de impactos",
-          "La matris de probabilidad e impacto",
+          "La matriz de probabilidad e impacto",
           "El Risk Breakdows Structure"
         ],
         "answer": 2,
