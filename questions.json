@@ -303,7 +303,7 @@
         "explanation": "(Deemer, y otros, 2012) (Roles en Scrum). La respuesta correcta es: El ScrumMaster ayuda al área de producto a aprender y aplicar Scrum para obtener valor de negocio."
       },
       {
-        "question": "¿Cual de los siguientes principios NO pertenece a la metodología XP (eXtreme Programming)?",
+        "question": "¿Cuál de los siguientes principios NO pertenece a la metodología XP (eXtreme Programming)?",
         "options": [
           "Integración continua: El software se integra múltiples veces al día.",
           "P2P Programming: La programación se comparte directamente con el cliente.",
@@ -393,7 +393,7 @@
         "explanation": "1.5.2.2.1 Características de RUP. La respuesta correcta es: Producen un efecto de refinamiento o corrección."
       },
       {
-        "question": "¿Que es el Scrum diario?",
+        "question": "¿Qué es el Scrum diario?",
         "options": [
           "Una reunión para que Scrum Master defina el trabajo a realizar durante el día actual.",
           "Una reunión de unos 15 minutos de duración para coordinar el trabajo que se va a desarrollar ese día",
@@ -443,7 +443,7 @@
         "explanation": "(Sanchís Marco, 1998) (1.2.4. Modelo de transformación). La respuesta correcta es: ...parte de la premisa de la existencia de un sistema que pueda convertir fácilmente los requerimientos en código."
       },
       {
-        "question": "¿Cual de los siguientes modelos de desarrollo es orientado a las personas y esta basado en la adaptabilidad más que en el carácter predictivo?",
+        "question": "¿Cuál de los siguientes modelos de desarrollo es orientado a las personas y esta basado en la adaptabilidad más que en el carácter predictivo?",
         "options": [
           "Modelo en Espiral",
           "Modelos Ágiles",
@@ -1108,7 +1108,7 @@
         "explanation": "2.1.3.2 Métricas y pseudo-métricas. La respuesta correcta es: Es un concepto formal con base matemática"
       },
       {
-        "question": "Cuál de las siguiente es un ejemplo de escala de intervalo",
+        "question": "¿Cuál de las siguiente es un ejemplo de escala de intervalo?",
         "options": [
           "La temperatura",
           "Las distancias",
@@ -1118,7 +1118,7 @@
         "explanation": "2.1.1.2.4.1 Escala. La respuesta correcta es: La temperatura"
       },
       {
-        "question": "¿Cuando es regular una escala?",
+        "question": "¿Cuándo es regular una escala?",
         "options": [
           "Una escala es regular cuando los objetos medidos guardan unicidad en el sentido de que si dos objetos tienen el mismo valor para una propiedad concreta en la misma escala, también tienen el mismo valor en cualquier otra escala homomórfica con la primera",
           "Una escala es regular cuando los objetos medidos pueden ser compartidos regularmente en diferentes entornos de medida",
@@ -1258,7 +1258,7 @@
         "explanation": "2.1.1.1 El proceso de la medición y sus características. La respuesta correcta es: No debe interferir en el proceso observado, de lo contrario los resultados obtenidos estarían falseados"
       },
       {
-        "question": "Sea un conjunto formado por ficheros de código, sobre el cual se mide el número de errores, donde existen las relaciones \"más errores que\" y \"menos errores que\" y donde se define la operación \"aglutinar errores de dos o más ficheros\", ¿que forma?",
+        "question": "Sea un conjunto formado por ficheros de código, sobre el cual se mide el número de errores, donde existen las relaciones \"más errores que\" y \"menos errores que\" y donde se define la operación \"aglutinar errores de dos o más ficheros\", ¿qué forma?",
         "options": [
           "Un sistema relacional empírico",
           "Ninguno de ambos, porque sólo hay una operación",
@@ -1328,7 +1328,7 @@
         "explanation": "2.1.1.2.4.1 Escala. La respuesta correcta es: T(x) = x"
       },
       {
-        "question": "¿Cual de los siguientes ejemplos de mediciones, según Fenton, es significativa?",
+        "question": "¿Cuál de los siguientes ejemplos de mediciones, según Fenton, es significativa?",
         "options": [
           "La complejidad del programa A es el doble que la de B",
           "Se tarda 1 minuto en ejecutar el programa A",
@@ -1508,7 +1508,7 @@
         "explanation": "La respuesta correcta es: Una métrica es una pseudométrica que satisface un axioma de identidad más estricto. ¡OJO! También es correcta la opción a) :/"
       },
       {
-        "question": "¿Cuando se usan escalas ordinales?",
+        "question": "¿Cuándo se usan escalas ordinales?",
         "options": [
           "Se usan cuando las mediciones necesitan establecer juicios comparativos y ordenaciones sobre los valores de un atributo",
           "Se usan cuando las mediciones necesitan establecer juicios comparativos pero no ordenaciones sobre los valores de un atributo",
@@ -1540,9 +1540,9 @@
       {
         "question": "Para evaluar la precisión de un método de estimación, Boehm propone un modelo basado en la medición del esfuerzo en meses-hombre ( MHe ) y la comparación con el esfuerzo real (MHa). Siendo MRE el parámetro de evaluación buscado, ¿cuál es el modelo de evaluación final prouesto?",
         "options": [
-          "(MHe - MHa) / MHa",
+          "MRE = (MHe - MHa) / MHa",
           "MRE = |MHe - MHa| / MHa",
-          "MHe - MHa"
+          "MRE = MHe - MHa"
         ],
         "answer": 0,
         "explanation": "Respuesta correcta: (MHe - MHa) / MHa"
@@ -1853,7 +1853,7 @@
         "explanation": "3.4 Planificación temporal. La respuesta correcta es: ...el desarrollo de modelo de cronograma del proyecto"
       },
       {
-        "question": "¿Que se entiende por gobernabiliad del proyecto?",
+        "question": "¿Qué se entiende por gobernabiliad del proyecto?",
         "options": [
           "La gobernabilidad del proyecto es una función de supervisión que está alineada con el modelo de gobierno de la organización, y que abarca el ciclo de vida del proyecto",
           "Es un proceso de otorgamiento de responsabilidades al Jefe de Proyecto para que éste ejerza su función de gobierno",
@@ -3828,7 +3828,7 @@
         "options": [
           "Son técnicas para definir escenarios sobre los que se realizan valoraciones",
           "Son técnicas de desarrollo que permiten limitar el alcance de muchos riesgos",
-          "Son técnicas que permiten replantearse el objetivo del proyecto para determinar si el asumir el riesgo es productivo frente a otras opciones"
+          "Son técnicas que permiten replantearse el objetivo del proyecto para determinar si asumir el riesgo es productivo frente a otras opciones"
         ],
         "answer": 1,
         "explanation": "6.6.6.1 Técnicas (Desarrollo incremental). La respuesta correcta es: Son técnicas de desarrollo que permiten limitar el alcance de muchos riesgos"
@@ -3884,7 +3884,7 @@
         "explanation": "6.6.3.1 Técnicas (Evaluación de la Urgencia de los Riesgos). La respuesta correcta es: Para determinar las políticas de respuesta a esos riesgos"
       },
       {
-        "question": "La metodología del PMBOK tiene seis pasos",
+        "question": "La metodología del PMBOK tiene seis pasos:",
         "options": [
           "Identificación, Análisis, Priorización, Planificación de la gestión, Resolución y Monitorización",
           "Valoración, Priorización, Análisis Cuantitativo, Planificación de la respuesta, Monitorización y Control",
@@ -3997,7 +3997,7 @@
         "question": "Dentro de las técnicas usadas habitualmente en la Planificación de la gestión de cada riesgo, ¿en qué consiste el Análisis coste-beneficio?",
         "options": [
           "Es un procedimiento para calcular el coste y beneficio de las políticas de usar una estrategia reactiva (no controlar los riesgos) y proactiva",
-          "Es un procedimiento para estimar el coste de la gestión de riesgos de cada actividad del proyecto y compararlo con los beneficio estimados del proyecto",
+          "Es un procedimiento para estimar el coste de la gestión de riesgos de cada actividad del proyecto y compararlo con los beneficios estimados del proyecto",
           "Es un procedimiento para formular y evaluar respuestas a los riesgos que sean consistentes en la comparación de costes y beneficios"
         ],
         "answer": 2,
@@ -4434,7 +4434,7 @@
         "explanation": "6.6.2.1 Técnicas (Análisis de supuestos). La respuesta correcta es: En tomar una serie de hipótesis como base para concebir y desarrollar los riesgos"
       },
       {
-        "question": "La metodología de Boehm tiene seis pasos",
+        "question": "La metodología de Boehm tiene seis pasos:",
         "options": [
           "Identificación, Análisis, Priorización, Planificación de la gestión, Resolución y Monitorización",
           "Planificación de la Gestión, Identificación, Análisis cualitativo, Análisis cuantitativo, Planificación de la respuesta y Monitorización",
@@ -4478,7 +4478,7 @@
         "options": [
           "Es un proceso de definición del identificador y el nombre de los riesgos del proyecto",
           "Es un proceso de reflexión a través de diferentes técnicas para determinar qué cosas, elementos o circunstancias son riesgos del proyecto",
-          "Es la creación de una lista con los riesgos importantes del proeycto y otra con los menos importantes"
+          "Es la creación de una lista con los riesgos importantes del proyecto y otra con los menos importantes"
         ],
         "answer": 1,
         "explanation": "6.6.2 Identificación de Riesgos. La respuesta correcta es: Es un proceso de reflexión a través de diferentes técnicas para determinar qué cosas, elementos o circunstancias son riesgos del proyecto"
@@ -4869,7 +4869,7 @@
         "explanation": "7.3.2.2 Niveles CMMI (Nivel 3 - Definido). La respuesta correcta es: Los procesos están bien caracterizados y son entendidos por los miembros de la organización"
       },
       {
-        "question": "La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación, ¿cuales?",
+        "question": "La implantación de un modelo o estándar de calidad en una empresa de software tiene diferentes niveles de implantación, ¿cuáles?",
         "options": [
           "Organización, Proceso, Software y Datos",
           "Inicial, Repetible, Definido, Administrado y Optimizado",
@@ -5173,7 +5173,7 @@
         "explanation": "8.2 Planificar la Gestión de las Comunicaciones. La respuesta correcta es: Es el proceso para definir los canales y procesos de comunicación relacionados con el proyecto"
       },
       {
-        "question": "¿Cuales de las siguientes son técnicas para la planificación de la Gestión de las Comunicaciones?",
+        "question": "¿Cuáles de las siguientes son técnicas para la planificación de la Gestión de las Comunicaciones?",
         "options": [
           "Los Sistemas de Gestión de Información y el Juicio de expertos",
           "El Análisis de los requisitos de comunicación y las Reuniones",
@@ -5303,7 +5303,7 @@
         "explanation": "8.2.2 Salidas. La respuesta correcta es: La persona responsable de comunicar la información"
       },
       {
-        "question": "Un informe de progreso para el cliente, ¿que tipo de comunicación sería?",
+        "question": "Un informe de progreso para el cliente, ¿qué tipo de comunicación sería?",
         "options": [
           "Escrita e informal",
           "Formal y externa",
@@ -5363,7 +5363,7 @@
         "explanation": "8.2.1 Técnicas/Análisis de los requisitos de comunicación. La respuesta correcta es: En determinar los requisitos de comunicación necesaria y el valor de esa información"
       },
       {
-        "question": "Un email del Jefe de Proyecto comunicando que se va a disponer de licencias de un producto, ¿que tipo de comunicación sería?",
+        "question": "Un email del Jefe de Proyecto comunicando que se va a disponer de licencias de un producto, ¿qué tipo de comunicación sería?",
         "options": [
           "Vertical e informal",
           "Escrita y horizontal",
@@ -5564,7 +5564,7 @@
         "explanation": "10.1 Introducción. La respuesta correcta es: Los relacionados con las etapas de definición, construcción, pruebas, implantación y puesta en servicio"
       },
       {
-        "question": "Pedir explicaciones por una decisión de un miembro del equipo por parte del jefe de proyecto, ¿que tipo de comunicación sería?",
+        "question": "Pedir explicaciones por una decisión de un miembro del equipo por parte del jefe de proyecto, é tipo de comunicación sería?",
         "options": [
           "Formal y oficial",
           "Vertical y extraoficial",
@@ -5705,7 +5705,7 @@
         "options": [
           "Mejora de la productividad de los usuarios",
           "Aumento de la satisfacción de los usuarios",
-          "Mejora de las condiciones de trabajo de los usuario"
+          "Mejora de las condiciones de trabajo de los usuarios"
         ],
         "answer": 2,
         "explanation": "9.9.1 Gestión del cambio. No es un beneficio propio (podría serlo indirectamente o ser parte de este beneficio) por que las condiciones de trabajo son mucho más que el hecho de que el usuario se sienta satisfecho con el nuevo sistema. La respuesta correcta es: Mejora de las condiciones de trabajo de los usuario"
@@ -5721,9 +5721,9 @@
         "explanation": "9.10.3 Actividades después de la terminación del proyecto / Proceso de terminación del proyecto. La respuesta correcta es: Tomar la decisión de terminar el proyecto"
       },
       {
-        "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿que representa el ACWP?",
+        "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿qué representa el ACWP?",
         "options": [
-          "Es el valor del coste de trabaja hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual",
+          "Es el valor del coste de trabajo hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual",
           "Es la línea base, representa cuanto trabajo debería estar hecho al coste presupuestado",
           "Es el valor del trabajo realizado, representa cuanto trabajo está terminado en el momento actual"
         ],
@@ -5733,7 +5733,7 @@
       {
         "question": "¿Qué quiere decir que la formación no debe ser redundante?",
         "options": [
-          "Que el usuario no deb asistir varias veces al mismo curso",
+          "Que el usuario no debe asistir varias veces al mismo curso",
           "Que el formador no debe repetir las cosas",
           "Que no se debe formar al mismo usuario varias veces en el mismo entorno"
         ],
@@ -5791,7 +5791,7 @@
         "explanation": "(Furtel y otros, 2002), 25. Project Tracking and Control / Project Management Information System. La respuesta correcta es: Project Management Information System"
       },
       {
-        "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿que es el ACWP?",
+        "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿qué es el ACWP?",
         "options": [
           "Coste real del trabajo realizado",
           "Coste presupuestado del trabajo realizado",
@@ -5853,8 +5853,8 @@
       {
         "question": "Según Meredith y Mantel, ¿en qué consiste la terminación por Integración?",
         "options": [
-          "De manera jerárquica se da la orden de integrar lo que esté realizado hasta ese momento y de da por terminado el proyecto",
-          "El proyecto realiza la integración final de productos desarrollados y se da por termiando",
+          "De manera jerárquica se da la orden de integrar lo que esté realizado hasta ese momento y Se da por terminado el proyecto",
+          "El proyecto realiza la integración final de productos desarrollados y se da por termiNAdo",
           "El equipo de proyecto, los procesos y los productos se integran en el departamento que realizará la explotación de manera planificada"
         ],
         "answer": 2,
@@ -5871,7 +5871,7 @@
         "explanation": "9.10.2 Tipos de final de proyecto. La respuesta correcta es: Es positiva cuando el proyecto alcanza sus objetivos"
       },
       {
-        "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿que es el BCWP?",
+        "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿qué es el BCWP?",
         "options": [
           "Coste real del trabajo realizado",
           "Coste presupuestado del trabajo realizado",
@@ -5923,7 +5923,7 @@
       {
         "question": "¿Qué es un cuadro de mandos desde el punto de vista del SIGP?",
         "options": [
-          "Es una herramienta que tienes los SIGP para seleccionar variables del proyecto",
+          "Es una herramienta que tienen los SIGP para seleccionar variables del proyecto",
           "Es una colección de gráficos que muestran información parcial del proyecto",
           "Es una visión parcial de algunas variables relacionadas para ofrecer una vista conjunta de algún aspecto del proyecto"
         ],
@@ -5954,11 +5954,11 @@
         "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿qué es la variación de coste (CV)?",
         "options": [
           "Es la diferencia entre lo que ha costado realmente y el trabajo realizado realmente (CV = ACWP - BCWS)",
-          "Es la diferencia entre la línea base del poryecto y lo que ha costado realmente (CV = BCWP - ACWP)",
+          "Es la diferencia entre la línea base del proyecto y lo que ha costado realmente (CV = BCWP - ACWP)",
           "Es la diferencia entre la línea base del proyecto y el trabajo realizado realmente (CV = BCWP - BCWS)"
         ],
         "answer": 1,
-        "explanation": "(Furtel y otros, 2002), 25. Project Tracking and Control / Earned Value Management. La respuesta correcta es: Es la diferencia entre la línea base del poryecto y lo que ha costado realmente (CV = BCWP - ACWP)"
+        "explanation": "(Furtel y otros, 2002), 25. Project Tracking and Control / Earned Value Management. La respuesta correcta es: Es la diferencia entre la línea base del proyecto y lo que ha costado realmente (CV = BCWP - ACWP)"
       },
       {
         "question": "Dentro de los elementos básicos del control del alcance, ¿qué objetivo cumple tener un sistema de auditoría o revisión periódica?",
@@ -5991,7 +5991,7 @@
         "explanation": "9.7.2 Cadena Crítica. La respuesta correcta es: En el camino crítico y las reservas"
       },
       {
-        "question": "Dentro de los elementos básicos del control del alcance, ¿que elementos ayudan a tener una manera de informar del estado de las variables del proceso?",
+        "question": "Dentro de los elementos básicos del control del alcance, ¿qué elementos ayudan a tener una manera de informar del estado de las variables del proceso?",
         "options": [
           "Los diagramas de Pareto y lo sgráficos ABC",
           "El alcance, el coste, el cronograma y la calidad",
@@ -6041,7 +6041,7 @@
         "explanation": "9.2 Actividades de seguimiento y control del proyecto. La respuesta correcta es: Es un sistema que permite consultar en todo momento la situación del proyecto en función de la planificación aprobada"
       },
       {
-        "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿que es el BCWS?",
+        "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿qué es el BCWS?",
         "options": [
           "Coste real del trabajo realizado",
           "Coste presupuestado del trabajo realizado",
@@ -6051,11 +6051,11 @@
         "explanation": "(Furtel y otros, 2002), 25. Project Tracking and Control / Earned Value Management. La respuesta correcta es: Coste presupuestado del trabajo programado"
       },
       {
-        "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿que representa el BCWP?",
+        "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿qué representa el BCWP?",
         "options": [
-          "Es la línea base, representa cuanto trabajo debería estar hecho al coste presupuestado",
-          "Es el valor del coste de trabaja hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual",
-          "Es el valor del trabajo realizado, representa cuanto trabajo está terminado en el momento actual"
+          "Es la línea base, representa cuánto trabajo debería estar hecho al coste presupuestado",
+          "Es el valor del coste de trabajo hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual",
+          "Es el valor del trabajo realizado, representa cuánto trabajo está terminado en el momento actual"
         ],
         "answer": 2,
         "explanation": "(Furtel y otros, 2002), 25. Project Tracking and Control / Earned Value Management. La respuesta correcta es: Es el valor del trabajo realizado, representa cuanto trabajo está terminado en el momento actual"
@@ -6121,16 +6121,6 @@
         "explanation": "9.7.2 Cadena Crítica. La respuesta correcta es: La sencillez de los cálculos a realizar"
       },
       {
-        "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿cuál es el coste estimado en la terminación (ECAC)?",
-        "options": [
-          "Es la proyección del coste total final en función del coste y del desempeño actuales. EACA = BAC x (ACWP / BCWP)",
-          "Es la proyección del coste total final en función de la variación de cronograma y la de coste actuales. EACA = BAC x (SV / CV)",
-          "Es la proyección del coste total final en función de la variación de coste y el coste actuales. EACA = BAC x (CV / ACWP)"
-        ],
-        "answer": 0,
-        "explanation": "(Furtel y otros, 2002), 25. Project Tracking and Control / Earned Value Management. La respuesta correcta es: Es la proyección del coste total final en función del coste y del desempeño actuales. EACA = BAC x (ACWP / BCWP)"
-      },
-      {
         "question": "Son varias las razones para terminar un proyecto, de ellas, ¿qué son la razones técnicas?",
         "options": [
           "El proyecto deja de ser viable porque una cierta tecnología no es éticamente aceptable",
@@ -6164,7 +6154,7 @@
         "question": "Las técnicas usuales para controlar y comunicar los avances del proyecto permiten informar a los diferentes stakeholders sobre el estado del proyecto. Dentro de ellas, ¿qué son los hitos de control?",
         "options": [
           "Son elementos no necesariamente tangibles que permiten identificar el estado de avance del proyecto",
-          "Son tareas ficticias que permiten controlar el el estado de avance del proyecto",
+          "Son tareas ficticias que permiten controlar el estado de avance del proyecto",
           "Son tareas introducidas en el cronograma para controlar el avance del proyecto"
         ],
         "answer": 0,
@@ -6232,7 +6222,7 @@
         "explanation": "9.10.2 Tipos de final de proyecto. La respuesta correcta es: Positiva y negativa"
       },
       {
-        "question": "¿Qué tipos de costes exiten en un proyecto desde el punto de vista del origen?",
+        "question": "¿Qué tipos de costes existen en un proyecto desde el punto de vista del origen?",
         "options": [
           "Costes financieros y laborales",
           "Costes internos y externos",
@@ -6302,16 +6292,6 @@
         "explanation": "9.2 Actividades de seguimiento y control del proyecto. La respuesta correcta es: La Dirección del proyecto, el impulso al desarrollo del proyecto y la toma de decisiones"
       },
       {
-        "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿que representa el BCWS?",
-        "options": [
-          "Es la línea base, representa cuanto trabajo debería estar hehco al coste presupuestado",
-          "Es el valor del coste de trabaja hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual",
-          "Es el valor del trabajo realizado, representa cuanto trabajo está terminado en el momento actual"
-        ],
-        "answer": 0,
-        "explanation": "(Furtel y otros, 2002), 25. Project Tracking and Control / Earned Value Management. La respuesta correcta es: Es la línea base, representa cuanto trabajo debería estar hehco al coste presupuestado"
-      },
-      {
         "question": "Según Furtel, ¿cuáles son las principales razones para terminar un proyecto?",
         "options": [
           "Lógicas e ilógicas",
@@ -6345,7 +6325,7 @@
         "question": "Dentro de las técnicas que ayudan a controlar los costes, ¿en qué consiste el uso de herramientas de simulación y estimación de costes?",
         "options": [
           "Son herramientas que toman decisiones sobre el proyecto en función de escenarios de ejecución",
-          "SOn herramientas que simulan el proyecto y lo comparan con lo realizado para ver dónde se han cometido fallos",
+          "Son herramientas que simulan el proyecto y lo comparan con lo realizado para ver dónde se han cometido fallos",
           "Son herramientas que permiten diseñar escenarios de ejecución del proyecto hasta la conclusión y valorarlos para poder tomar decisiones"
         ],
         "answer": 2,
@@ -6384,7 +6364,7 @@
       {
         "question": "Según Meredith y Mantel, ¿en qué consiste la terminación por Adición?",
         "options": [
-          "EL proyecto se añade a la lista de proyectos termiandos",
+          "El proyecto se añade a la lista de proyectos terminados",
           "Se han añadido tantas cosas al proyecto que se decide ponerle fin",
           "El proyecto termina con éxito y el equipo de proyecto se añade a la explotación del proyecto"
         ],
@@ -6454,7 +6434,7 @@
       {
         "question": "¿A qué nos puede ayudar la aplicación de técnicas como las de los gráficos ABC o la ley de Pareto (80/20) con respecto del SIGP?",
         "options": [
-          "No pueden ayudar a seleccionar las adquisiciones con mayor coste para centrar los esfuerzos en ellas",
+          "Nos pueden ayudar a seleccionar las adquisiciones con mayor coste para centrar los esfuerzos en ellas",
           "Nos pueden ayudar a seleccionar aquellas variables que tienen más impacto y que deben ser observadas con más atención",
           "Nos pueden ayudar a seleccionar los riesgos más importantes para el proyecto"
         ],
@@ -6464,8 +6444,8 @@
       {
         "question": "En la técnica de la Gestión de Valor ganado o acumulado, ¿qué representa el BCWS?",
         "options": [
-          "Es la línea base, representa cuanto trabajo debería estar hehco al coste presupuestado",
-          "Es el valor del coste de trabaja hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual",
+          "Es la línea base, representa cuánto trabajo debería estar hecho al coste presupuestado",
+          "Es el valor del coste de trabajo hasta el momento, representa cuánto ha costado el proyecto hasta el momento actual",
           "Es el valor del trabajo realizado, representa cuanto trabajo está terminado en el momento actual"
         ],
         "answer": 0,
