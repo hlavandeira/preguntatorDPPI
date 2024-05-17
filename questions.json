@@ -47,7 +47,7 @@
         "options": [
           "Los Sprints continúan hasta que se ha vaciado la Pila de Producto y se obtiene un release operativo.",
           "Los Sprints continúan hasta que se ha completado toda la funcionalidad comprometida con el Dueño de producto.",
-          "Los Sprints continúan hasta que el Dueño de Producto decide que el producto está lista para lanzar."
+          "Los Sprints continúan hasta que el Dueño de Producto decide que el producto está listo para lanzar."
         ],
         "answer": 2,
         "explanation": "1.5.2.4.10 Comienzo del siguiente Sprint. La respuesta correcta es: Los Sprints continúan hasta que el Dueño de Producto decide que el producto está lista para lanzar."
@@ -113,7 +113,7 @@
         "explanation": "1.5.2.4.9 Retrospectiva del Sprint. La respuesta correcta es: La retrospectiva es una inspección y adaptación del proceso y del entorno. Se trata de que equipo discuta qué está funcionando bien y mal para acordar cambios."
       },
       {
-        "question": "Cual de las siguientes afirmaciones sobre modelos ágiles es correcta:",
+        "question": "¿Cuál de las siguientes afirmaciones sobre modelos ágiles es correcta?",
         "options": [
           "Se basan en la adaptabilidad del proyecto",
           "Son de carácter predictivo",
@@ -463,7 +463,7 @@
         "explanation": "1.1.3.1 Tarea. La respuesta correcta es: Es una unidad de trabajo con entidad"
       },
       {
-        "question": "Indica cual de las siguientes afirmaciones es correcta:",
+        "question": "Indica cuál de las siguientes afirmaciones es correcta:",
         "options": [
           "Un proyecto es un esfuerzo humano y temporal que pretende un estándar informático",
           "Un proyecto es un esfuerzo temporal acometido para crear un único servicio o producto",
@@ -583,7 +583,7 @@
         "explanation": "1.1.3.5 Sistema. La respuesta correcta es: Un sistema es básicamente un conjunto de elementos organizados para actuar en conjunto con un objetivo claro"
       },
       {
-        "question": "Para RUP la vida de un sistema se divide en ciclos y cada ciclo en cuatro fases, indica cual de las siguientes respuestas no es una fase de un ciclo:",
+        "question": "Para RUP la vida de un sistema se divide en ciclos y cada ciclo en cuatro fases, indica cuál de las siguientes respuestas no es una fase de un ciclo:",
         "options": [
           "Inicio.",
           "Dimensionamiento.",
@@ -633,7 +633,7 @@
         "explanation": "(Furtel, y otros, 2002) (Cap 1. \"What is Software Engineering?). La respuesta correcta es: Stephen Schach"
       },
       {
-        "question": "Señale cual de las siguientes afirmaciones es correcta:",
+        "question": "Señale cuál de las siguientes afirmaciones es correcta:",
         "options": [
           "RUP es la metodología o proceso de desarrollo propuesta por Racional para el desarrollo de proyectos software orientados a objeto",
           "Un proyecto de informática equivale a un proyecto software",
@@ -733,7 +733,7 @@
         "explanation": "1.5.2.4.7 Refinamiento de la Pila del Producto. La respuesta correcta es: Se hacen reuniones con todos los miembros principales de Scrum. Habitualmente,estas reuniones no deben ser más del 10% de la capacidad de desarrollo del equipo para el Sprint"
       },
       {
-        "question": "Si estamos Hablando de XP (eXtreme Programming), cual de las siguientes afirmaciones es cierta:",
+        "question": "Si estamos Hablando de XP (eXtreme Programming), cuál de las siguientes afirmaciones es cierta:",
         "options": [
           "Es un Sistema Operativo de Microsoft",
           "La cooperación entre programadores no esta contemplada",
@@ -878,7 +878,7 @@
         "explanation": "2.1.1.2.1 Sistema relacional empírico. La respuesta correcta es: A (Conjunto de objetos a medir), R (Conjunto de relaciones en A) y O (Conjunto de operaciones binarias en A)"
       },
       {
-        "question": "Indica cual de los siguientes tipos de medición es significativa:",
+        "question": "Indica cuál de los siguientes tipos de medición es significativa:",
         "options": [
           "Cuesta tres meses escribir el Progrma A",
           "La complejidad del programa es 42",
@@ -948,7 +948,7 @@
         "explanation": "2.1.1.2.4.1 Escala. La respuesta correcta es: No se pueden tener relaciones del tipo \"es el doble de\""
       },
       {
-        "question": "Cual de las siguientes mediciones NO es significativa",
+        "question": "¿Cuál de las siguientes mediciones NO es significativa?",
         "options": [
           "La calidad del programa A es del 97%",
           "Cuesta 3 meses escribir el programa A",
@@ -4348,7 +4348,7 @@
         "options": [
           "Proactivas, reactivas y contingecnias",
           "Eliminación, Transferencia, Evitación y Retención",
-          "Aprovechameinto, Mejora, Cpmpartición y Aceptación"
+          "Aprovechameinto, Mejora, Compartición y Aceptación"
         ],
         "answer": 1,
         "explanation": "6.4.2 Estrategias generales para las amenazas. La respuesta correcta es: Eliminación, Transferencia, Evitación y Retención"
@@ -5190,7 +5190,7 @@
           "Es el proceso de seguimiento y control de las comunicaciones a través de todo el ciclo de vida del proyecto para garantizar que las necesidades de información de los interesados en el proyecto se cumplen"
         ],
         "answer": 2,
-        "explanation": "8.4 Controlar las comunicaciones. La respuesta correcta es: El Control de las Comunicaciones es el proceso de seguimiento y control de las comunicaciones a través de todo el ciclo de vida del proyecto para garantizar las necesidades de información de los interesados en el proyecto se cumplen"
+        "explanation": "8.4 Controlar las comunicaciones. La respuesta correcta es: Es el proceso de seguimiento y control de las comunicaciones a través de todo el ciclo de vida del proyecto para garantizar que las necesidades de información de los interesados en el proyecto se cumplen"
       },
       {
         "question": "¿Cómo es la comunicación tipo pull?",
@@ -6460,6 +6460,22 @@
         ],
         "answer": 2,
         "explanation": "Respuesta correcta: Son los costes en los que incurre el proyecto por haber usado recursos propios de la organización"
+      }
+    ]
+  },
+  {
+    "topic": "EXAMEN Mayo 2024",
+    "questions": [
+      {
+        "question": "¿Cuál de los siguientes es un problema aplicable a los modelos de estimación de costes (CEM por sus siglas en inglés)?",
+        "options": [
+          "Sólo son aplicables a proyectos que cumplan unas características específicas",
+          "No son modelos completamente fiables",
+          "Es difícil escoger una herramienta porque haya muchas que lo implementen bien",
+          "Ninguna de las otras es correcta"
+        ],
+        "answer": 0,
+        "explanation": "Respuesta correcta: "
       }
     ]
   }
