@@ -295,11 +295,10 @@ function createMockExam(data) {
     option.value = "Simulacro de examen";
     option.textContent = "Simulacro de examen";
     topicSelector.appendChild(option);
-
-    // Añadimos la opción de "EXAMEN Mayo 2024" al selector de temas
-    option.value = "EXAMEN Mayo 2024";
-    option.textContent = "EXAMEN Mayo 2024";
-    topicSelector.appendChild(option);
+    const option2 = document.createElement("option");
+    option2.value = "Examen Mayo 2024";
+    option2.textContent = "Examen Mayo 2024";
+    topicSelector.appendChild(option2);
 }
 
 function shuffleArray(array) {
